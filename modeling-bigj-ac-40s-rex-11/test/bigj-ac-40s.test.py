@@ -31,7 +31,7 @@ sampleobjects = []
 #datafile="XL_MS_all_data_19.12.13.csv"
 
 data="Only_10_7"
-datafile="XL_MS_all_data_20.12.13.csv"
+datafile="XL_MS_all_data_20.12.13_no_7_x_eif3_eif3.csv"
 modeled_complex="all"
 scale=2.0
 move_ac="move_ac"
@@ -167,6 +167,7 @@ columnmap["Protein2"]='Protein_2'
 columnmap["Residue1"]='S.cer_Corr_1'
 columnmap["Residue2"]='S.cer_Corr_2'
 columnmap["IDScore"]='ID_Score'
+columnmap["XLUniqueID"]='Unique ID'
 
 if crosslink_classification=="Unique":
    ids_map=tools.map()
@@ -208,7 +209,7 @@ outputobjects.append(xl)
 
 print "Starting test"
 o.write_test("test.current.dict",[simo,ev,xl])
-#o.test("test.IMP-ee1763c6.PMI-4669cfca.dict",log_objects)
+o.test("test.05Mar2014.PMI-0519cbb288c0.IMP-ead0367d1bd9bc.ISD_EMXL-63875839eb625.dict",[simo,ev,xl])
 
 
 
