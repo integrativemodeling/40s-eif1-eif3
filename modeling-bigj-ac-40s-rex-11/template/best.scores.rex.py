@@ -1,0 +1,1 @@
+self.best_score_list=[]

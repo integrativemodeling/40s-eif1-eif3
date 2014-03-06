@@ -1,0 +1,1 @@
+~/imp-141113/imp-fast/setup_environment.sh python ~/imp-141113/imp/modules/isd2/bin/create_gmm.py ~/Dropbox/eif3/EM_maps/3doc.ccp4.mrc 75 ~/Dropbox/eif3/EM_maps/3doc.ccp4.txt -m ~/Dropbox/eif3/EM_maps/3doc.ccp4.txt.mrc -n 1000000
