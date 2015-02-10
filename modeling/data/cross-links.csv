@@ -1,0 +1,966 @@
+Protein_1,BIG_type,Protein_2,Corr_Pos_2,,Corr_Pos_1,Unique ID,S.cer_Corr_1,SS_type,S.cer_Corr_2,Sample,Abs_Pos_2,Abs_Pos_1,FDR,Organism,Xlink_type,Comments on sample,ACB_type,ID_Score,ID
+eIF3a,2,eIF3a,549,,576,1728,589,,562,10_1,552,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.61,EHLIQKTNETISR-AQLAELAKALK-a6-b8
+eIF3a,2,eIF3a,576,,549,1631,562,,589,10_1,579,552,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.05,AQLAELAKALKETEGFAQGSYMNK-EHLIQKTNETISR-a8-b6
+eIF3a,2,eIF3a,576,,552,1647,565,,589,10_1,579,555,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.78,AQLAELAKALKETEGFAQGSYMNK-EHLIQKTNETISR-a11-b6
+eIF3a,2,eIF3a,586,,576,1729,589,,599,10_1,589,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.88,EHLIQKTNETISR-KAAEER-a6-b1
+eIF3a,2,eIF3a,586,,576,1730,589,,599,10_1,589,579,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.63,EHLIQKTNETISR-ERKAAEER-a6-b3
+eIF3a,2,eIF3a,636,,642,2033,656,,650,10_1,639,645,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.75,AEEKFERER-MEAEAKRR-a4-b6
+eIF3a,2,eIF3a,636,,642,2034,656,,650,10_1,639,645,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.27,RAEEKFER-MEAEAKR-a5-b6
+eIF3a,2,eIF3a,642,,636,2000,650,,656,10_1,645,639,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.34,MEAEAKRR-AEEKFER-a6-b4
+eIF3a,2,eIF3a,656,,676,2146,690,,670,10_1,659,679,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.94,EAKNMDAETIR-AAVLEGEMKK-a3-b9
+eIF3a,2,eIF3a,775,,782,2352,796,,789,10_1,778,785,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.26,ILATKEAK-AFKAK-a5-b3
+eIF3a,2,eIF3a,777,,785,2379,799,,791,10_1,780,788,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.38,EAKLTEAR-AKILATK-a3-b2
+eIF3a,2,eIF3a,782,,772,2335,786,,796,10_1,785,775,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.21,ISSDYKAFKAK-ILATKEAK-a6-b5
+eIF3a,2,eIF3a,825,,840,2515,856,,844,10_1,828,843,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.91,EAREEEEKSRAESEK-RQEELKQQQEFER-a8-b6
+eIF3a,2,eIF3a,825,,847,2540,863,,844,10_1,828,850,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.01,EEEEKSRAESEKAAR-RQEELKQQQEFER-a12-b6
+eIF3a,2,eIF3a,840,,825,2485,844,,856,10_1,843,828,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.61,RQEELKQQQEFER-EAREEEEKSR-a6-b8
+eIF3a,2,eIF3a,840,,825,2486,844,,856,10_1,843,828,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.98,RQEELKQQQEFER-EEEEKSRAESEK-a6-b5
+eIF3a,2,eIF3a,847,,825,2484,844,,863,10_1,850,828,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.98,RQEELKQQQEFER-AESEKAAR-a6-b5
+eIF3a,2,eIF3c,800,,576,1727,589,,799,10_1,803,579,0.186,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.29,EHLIQKTNETISR-ETKYVSER-a6-b3
+eIF3a,2,eIF3c,809,,576,1726,589,,808,10_1,812,579,0.077,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.15,EHLIQKTNETISR-LNEKK-a6-b4
+eIF3a,2,eIF3c,809,,599,1819,612,,808,10_1,812,602,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.09,TRQLEEEKLR-LNEKK-a8-b4
+eIF3a,2,eIF3c,809,,599,1820,612,,808,10_1,812,602,0.107,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.92,QLEEEKLR-LNEKK-a6-b4
+eIF3a,2,eIF3c,810,,576,1725,589,,809,10_1,813,579,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.2,EHLIQKTNETISR-KFAGNAPQR-a6-b1
+eIF3a,2,eIF3g,100,,785,2378,799,,97,10_1,102,788,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.65,EAKLTEAR-KAKEAK-a3-b3
+eIF3a,2,RPS16,106,,599,1821,612,,107,10_1,106,602,0.115,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.48,QLEEEKLR-NELKK-a6-b4
+eIF3a,2,RPS2,124,,63,1587,63,,119,10_1,124,66,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.39,FLELGVDLKK-TAKEVASAIR-a9-b3
+eIF3a,2,RPS5,109,,840,2512,856,,109,10_1,109,843,0.091,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.05,EAREEEEKSR-LKAVRIVK-a8-b2
+eIF3b,2,eIF3a,743,,140,2604,140,,757,10_1,746,142,0.127,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.42,FGTEEFETEFREPKLPEFTPTEYLK-DLENYNDLKQR-a14-b9
+eIF3b,2,eIF3b,190,,167,2620,167,,190,10_1,192,169,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.01,DQFVLQKSDMTAIFWNR-KNWSNSTVR-a7-b1
+eIF3b,2,eIF3b,293,,100,2593,100,,292,10_1,295,102,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.12,KAIALLNGK-TFALPPKQK-a1-b7
+eIF3b,2,eIF3b,447,,509,2785,504,,447,10_1,449,511,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.87,VVHKIEGK-VEMKDR-a4-b4
+eIF3b,2,eIF3b,452,,467,2687,467,,452,10_1,454,469,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.13,FITISKTETADDNPAVPK-VLKFGWEPTGDR-a6-b3
+eIF3b,2,eIF3b,498,,489,2719,489,,497,10_1,500,491,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.87,NVVTFFAPEKKDVK-SNQGKEDLKK-a10-b5
+eIF3b,2,eIF3b,539,,479,2695,479,,534,10_1,541,481,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.53,TETADDNPAVPKNVVTFFAPEKK-KAELDFFDLDFTGEK-a12-b1
+eIF3b,2,eIF3i,271,,539,2800,534,,272,10_1,271,541,0.062,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.75,KAELDFFDLDFTGEK-EGKFEAR-a1-b3
+eIF3b,2,RPS9,65,,493,2734,493,,65,10_1,65,495,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.28,DVKSNQGKEDLKK-DLLTRDEKDPKR-a3-b8
+eIF3b,2,RPS9,90,,493,2735,493,,90,10_1,90,495,0.2,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.9,DVKSNQGKEDLKK-IGVLSEDKKK-a3-b8
+eIF3c,2,eIF3a,599,,810,2959,809,,612,10_1,602,813,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.29,KFAGNAPQR-QLEEEKLR-a1-b6
+eIF3c,2,eIF3c,76,,104,2889,110,,82,10_1,79,107,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.81,NANYSDSEDSDDEGRKVVK-KGGASSGANR-a16-b1
+eIF3c,2,eIF3c,198,,187,2905,193,,204,10_1,201,190,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.6,AVAKAYNTTK-VKKVAR-a4-b3
+eIF3c,2,eIF3c,681,,662,2926,661,,680,10_1,684,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.83,ALEHYEKSSFQGPPETLR-DHVLYAAKSMQR-a7-b8
+eIF3c,2,eIF3c,797,,662,2927,661,,796,10_1,800,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.46,RALEHYEKSSFQGPPETLR-LAKETK-a8-b3
+eIF3c,2,eIF3c,797,,662,2928,661,,796,10_1,800,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.67,ALEHYEKSSFQGPPETLR-LAKETK-a7-b3
+eIF3c,2,eIF3c,797,,662,2929,661,,796,10_1,800,665,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.93,ALEHYEKSSFQGPPETLRDHVLYAAK-LAKETK-a7-b3
+eIF3g,2,eIF3g,227,,198,3095,191,,220,10_1,229,200,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.16,ERDDAKTLK-IPKVVVVR-a6-b3
+eIF3i,2,eIF3i,271,,289,3116,290,,272,10_1,271,289,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.66,VKGHFGPLNYVAVSPQGTSYASGGEDGFVR-EGKFEAR-a2-b3
+eIF3j,2,eIF3j,156,,148,3132,147,,155,10_1,159,151,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.27,DTPIESHPLFEGETKADYQELR-KALSTAITSMHEK-a15-b1
+RACK1,2,RACK1,130,,108,59,107,,129,10_1,130,108,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.47,FVGHKSDVLSVAIDR-DKTVK-a5-b2
+RACK1,2,RACK1,130,,108,60,107,,129,10_1,130,108,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.35,FVGHKSDVLSVAIDRR-DKTVK-a5-b2
+RPS1,2,RPS1,19,,50,105,50,,19,10_1,19,50,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.55,TLVNKSTGLK-KVVDPFTRK-a5-b1
+RPS1,2,RPS1,19,,50,106,50,,19,10_1,19,50,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.99,TLVNKSTGLK-KVVDPFTR-a5-b1
+RPS10,2,eIF3j,219,,52,188,52,,218,10_1,222,52,0.147,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.63,ALQSLTSKGYVK-LAKVR-a8-b3
+RPS10,2,RPS10,5,,52,189,52,,5,10_1,5,52,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.88,ALQSLTSKGYVK-MLIPKEER-a8-b5
+RPS10,2,RPS10,10,,31,171,31,,10,10_1,10,31,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.6,DFNQAKHEDIDTK-TKIHR-a6-b2
+RPS10,2,RPS10,10,,31,172,31,,10,10_1,10,31,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.27,KDFNQAKHEDIDTK-TKIHR-a7-b2
+RPS11,2,RPS11,43,,141,255,141,,43,10_1,43,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,45.45,FNVLKVSSPAGK-NAGLGFKTPK-a5-b7
+RPS11,2,RPS11,141,,36,201,36,,141,10_1,141,36,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.81,WYKNAGLGFKTPK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,43,209,43,,141,10_1,141,43,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.31,WYKNAGLGFKTPK-FNVLKVSSPAGK-a10-b5
+RPS11,2,RPS11,141,,46,218,46,,141,10_1,141,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.11,TPKTAIEGSYIDKK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,46,219,46,,141,10_1,141,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.03,TPKTAIEGSYIDK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,148,,43,208,43,,148,10_1,148,43,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.82,NAGLGFKTPK-VSSPAGKSNK-a7-b7
+RPS11,2,RPS11,151,,141,254,141,,151,10_1,151,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,47.08,FNVLKVSSPAGK-SNKQFTKF-a5-b3
+RPS11,2,RPS11,151,,141,256,141,,151,10_1,151,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.65,FNVLKVSSPAGK-SNKQFTK-a5-b3
+RPS11,2,RPS11,155,,46,220,46,,155,10_1,155,46,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.28,TPKTAIEGSYIDKK-QFTKF-a3-b4
+RPS11,2,RPS11,155,,141,257,141,,155,10_1,155,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.51,FNVLKVSSPAGK-QFTKF-a5-b4
+RPS12,2,RPS31,113,,85,294,85,,113,10_1,36,85,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.26,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS13,2,RPS13,43,,39,318,39,,43,10_1,43,39,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.17,LSPDTVVEQIIKYAR-KGLTPSQIGVLLR-a12-b1
+RPS14,2,RPS5,222,,50,347,50,,222,10_1,222,50,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.34,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS14,2,RPS7,75,,48,343,48,,76,10_1,75,48,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.46,VTGGMKVKADR-VQIKLTR-a6-b4
+RPS15,2,RPS15,13,,64,395,64,,13,10_1,13,64,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.34,AAKLAAPENEKPAVVR-TFKTYSYK-a3-b3
+RPS15,2,RPS15,13,,64,396,64,,13,10_1,13,64,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.03,AAKLAAPENEKPAVVR-KRTFKTYSYK-a3-b5
+RPS15,2,RPS15,13,,64,397,64,,13,10_1,13,64,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.59,LRAAKLAAPENEKPAVVR-TFKTYSYK-a5-b3
+RPS15,2,RPS15,13,,72,409,72,,13,10_1,13,72,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.9,LAAPENEKPAVVR-TFKTYSYK-a8-b3
+RPS15,2,RPS15,13,,108,416,108,,13,10_1,13,108,0.032,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.13,SFNQVEIKPEMVGHYLGEFSITYTPVR-TFKTYSYK-a8-b3
+RPS17,2,eIF3a,599,,116,497,116,,612,10_1,602,116,0.138,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.38,SLGLKLPLAVSNVSAQR-TRQLEEEKLR-a5-b8
+RPS17,2,RPS0,116,,72,443,72,,116,10_1,116,72,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.99,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,444,72,,116,10_1,116,72,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.74,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,445,72,,116,10_1,116,72,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.39,GISFKLQEEERERK-SFKEPR-a5-b3
+RPS17,2,RPS17,7,,14,437,14,,7,10_1,7,14,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.57,ASKALIER-TKTVKR-a3-b2
+RPS17,2,RPS17,63,,81,470,81,,63,10_1,63,81,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.38,KDQYVPDVSALDLSHSK-IQKGPVR-a1-b3
+RPS17,2,RPS17,63,,81,471,81,,63,10_1,63,81,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.16,LQEEERERKDQYVPDVSALDLSHSK-IQKGPVR-a9-b3
+RPS18,2,RPS15,13,,96,551,96,,13,10_1,13,96,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.12,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,2,RPS15,13,,96,552,96,,13,10_1,13,96,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.66,QKDVNDGKNYHTLANNLESK-TFKTYSYK-a8-b3
+RPS18,2,RPS18,49,,80,509,80,,49,10_1,49,80,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.94,IVQIMQNPTQYKIPAWFLNR-KADVDLHKR-a12-b1
+RPS19,2,RPS19,27,,110,587,110,,27,10_1,27,110,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.13,VLQALEKIGVVEISPK-QGKLEVPGYVDIVK-a7-b3
+RPS19,2,RPS19,69,,119,599,119,,69,10_1,69,119,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.09,IGVVEISPKGGRR-KQVGVGK-a9-b1
+RPS2,2,RPS16,132,,124,643,119,,133,10_1,132,124,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.97,TAKEVASAIR-FGGKGARSR-a3-b4
+RPS2,2,RPS2,51,,38,607,33,,46,10_1,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.33,RETEEKGWVPVTK-LVKAGK-a6-b3
+RPS2,2,RPS2,51,,38,608,33,,46,10_1,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.39,ETEEKGWVPVTK-LVKAGK-a5-b3
+RPS2,2,RPS2,51,,38,609,33,,46,10_1,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.1,GGRRETEEKGWVPVTK-LVKAGK-a9-b3
+RPS2,2,RPS3,148,,124,642,119,,148,10_1,148,124,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.44,TAKEVASAIR-AKSMK-a3-b2
+RPS2,2,RPS3,194,,38,605,33,,194,10_1,194,38,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.83,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,2,RPS30,55,,38,606,33,,55,10_1,55,38,0.115,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.31,ETEEKGWVPVTK-KMNPSPSSQ-a5-b1
+RPS2,2,RPS30,55,,191,653,186,,55,10_1,55,191,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.88,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,2,eIF3j,246,,8,670,8,,244,10_1,249,8,0.091,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.02,EKVEQQEQPQIHK-AARPNLGGAFKK-a2-b11
+RPS20,2,RPS20,47,,8,674,8,,49,10_1,47,8,0.025,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.23,EKVEQQEQPQIHK-NAENYKLVK-a2-b6
+RPS20,2,RPS20,51,,19,704,21,,53,10_1,51,19,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.94,EKVEQQEQPQIHKIR-KGPVRLPTK-a13-b1
+RPS20,2,RPS20,51,,19,705,21,,53,10_1,51,19,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.12,VEQQEQPQIHKIR-KGPVRLPTK-a11-b1
+RPS20,2,RPS3,45,,99,720,101,,45,10_1,45,99,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.61,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS21,2,RPS26,12,,5,728,5,,12,10_1,12,5,0.127,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.48,MENDKGQLVELYVPR-RASNGRNKK-a5-b8
+RPS22,2,RPS7,147,,36,740,36,,148,10_1,147,36,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.33,VIIKFLQVMQK-YLVGGNKVQK-a4-b7
+RPS23,2,RPS23,30,,39,749,39,,30,10_1,30,39,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.67,LLGTAFKSSPFGGSSHAK-WAEQSYKK-a7-b7
+RPS23,2,RPS9,37,,56,753,56,,37,10_1,37,56,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.97,GIVLEKIGIESK-LAGEYGLKNK-a6-b8
+RPS24,2,RPS24,49,,21,757,21,,49,10_1,49,21,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.92,KQFVIDVLHPNR-LSEIYKAEK-a1-b6
+RPS24,2,RPS24,99,,83,777,83,,99,10_1,99,83,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.42,STGFGLVYNSVADAKK-YGLAEKVEK-a15-b6
+RPS24,2,RPS9,138,,68,771,68,,138,10_1,138,68,0.147,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.02,TQFGGGKSTGFGLVYNSVADAK-HIAVGKQIVNIPSFMVR-a7-b6
+RPS25,2,eIF3a,785,,21,808,21,,799,10_1,788,21,0.176,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.4,AAAALAGGKK-EAKLTEAR-a9-b3
+RPS25,2,RPS25,33,,46,824,46,,33,10_1,33,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.83,AQHAVVLEQEKLDR-KSHKDK-a11-b4
+RPS25,2,RPS25,33,,70,869,70,,33,10_1,33,70,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.51,LKIGGSMAR-SHKDK-a2-b3
+RPS25,2,RPS25,52,,46,821,46,,52,10_1,52,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.04,AQHAVVLEQEKLDR-IYKEVPTYR-a11-b3
+RPS25,2,RPS25,52,,46,822,46,,52,10_1,52,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.55,DKAQHAVVLEQEKLDR-IYKEVPTYR-a13-b3
+RPS25,2,RPS25,70,,46,820,46,,70,10_1,70,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.8,AQHAVVLEQEKLDR-LKIGGSMAR-a11-b2
+RPS25,2,RPS25,70,,46,823,46,,70,10_1,70,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.79,DKAQHAVVLEQEKLDR-LKIGGSMAR-a13-b2
+RPS25,2,RPS25,70,,52,866,52,,70,10_1,70,52,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.32,IYKEVPTYR-LKIGGSMAR-a3-b2
+RPS25,2,RPS25,90,,21,809,21,,90,10_1,90,21,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.7,AAAALAGGKK-DGIIKPVSK-a9-b5
+RPS25,2,RPS5,214,,21,807,21,,214,10_1,214,21,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.37,AAAALAGGKK-KKDELER-a9-b2
+RPS25,2,RPS5,222,,12,796,12,,222,10_1,222,12,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.41,AAKAAAALAGGKK-VAKSNR-a3-b3
+RPS25,2,RPS5,222,,12,798,12,,222,10_1,222,12,0.115,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.03,AAKAAAALAGGK-VAKSNR-a3-b3
+RPS25,2,RPS9,51,,12,797,12,,51,10_1,51,12,0.077,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.32,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,2,RPS28,14,,116,899,116,,14,10_1,14,116,0.077,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.31,VSPADAAKK-VIKVLGR-a8-b3
+RPS28,2,RPS5,222,,4,907,4,,222,10_1,222,4,0.115,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.99,MDSKTPVTLAK-VAKSNR-a4-b3
+RPS3,2,eIF3c,76,,45,911,45,,82,10_1,79,45,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.05,VTPTKTEVIIR-KGGASSGANR-a5-b1
+RPS3,2,eIF3g,198,,132,956,132,,191,10_1,200,132,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.59,YVMESGAKGCEVVISGK-ERDDAKTLK-a8-b6
+RPS3,2,RACK1,130,,212,986,212,,129,10_1,130,212,0.115,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.03,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,2,RPS3,194,,207,968,207,,194,10_1,194,207,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.67,ALPDAVKILEPKDEEPISEPSVK-DPSKNR-a7-b4
+RPS3,2,RPS30,55,,106,918,106,,55,10_1,55,106,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.6,GLSAVAQAESLKFKLLNGLAIR-KMNPSPSSQ-a12-b1
+RPS3,2,RPS30,55,,108,932,108,,55,10_1,55,108,0.147,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.91,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS3,2,RPS30,55,,108,933,108,,55,10_1,55,108,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.17,GLSAVAQAESLKFKLLNGLAIRR-KMNPSPSSQ-a14-b1
+RPS30,2,RPS3,108,,53,1022,53,,108,10_1,108,53,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.94,FVNVTLTNGKR-FKLLNGLAIR-a10-b2
+RPS30,2,RPS3,108,,53,1023,53,,108,10_1,108,53,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.1,RFVNVTLTNGKR-FKLLNGLAIR-a11-b2
+RPS4,2,RPS24,84,,71,1050,71,,84,10_1,84,71,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.76,HVKVDGK-KFEPTYR-a3-b1
+RPS4,2,RPS30,13,,211,1118,211,,13,10_1,13,211,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.57,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,2,RPS4,242,,211,1120,211,,242,10_1,242,211,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.64,HEGGFDLVHIKDSLDNTFVTR-GKGIK-a11-b2
+RPS4,2,RPS4,242,,211,1121,211,,242,10_1,242,211,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.68,ERHEGGFDLVHIKDSLDNTFVTR-GKGIK-a13-b2
+RPS4,2,RPS6,196,,168,1078,168,,196,10_1,196,168,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.97,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,196,,168,1079,168,,196,10_1,196,168,0.077,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.12,IDLASGKITDYIKFDTGK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,223,,155,1053,155,,223,10_1,223,155,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.85,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,2,RPS6,223,,161,1061,161,,223,10_1,223,161,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.67,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,174,1092,174,,223,10_1,223,174,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.85,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,179,1100,179,,223,10_1,223,179,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.38,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,2,RPS6,223,,179,1101,179,,223,10_1,223,179,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.25,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,2,RPS6,235,,161,1062,161,,235,10_1,235,161,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.5,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,2,RPS6,235,,161,1063,161,,235,10_1,235,161,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.33,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,2,RPS6,235,,174,1093,174,,235,10_1,235,174,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.52,ITDYIKFDTGKLVYVTGGR-ASSLKA-a6-b5
+RPS4,2,RPS6,235,,179,1102,179,,235,10_1,235,179,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.05,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,2,RPS6,235,,211,1119,211,,235,10_1,235,211,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.61,HEGGFDLVHIKDSLDNTFVTR-ASSLKA-a11-b5
+RPS5,2,RPS25,90,,45,1143,45,,90,10_1,90,45,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.2,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,2,RPS4,168,,214,1212,214,,168,10_1,168,214,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.66,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS6,2,RPS6,143,,131,1198,131,,143,10_1,143,131,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.55,RGEQELEGVTDQSIPKR-KFFGLTK-a16-b1
+RPS6,2,RPS6,223,,214,1213,214,,223,10_1,223,214,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.56,EASAEYAQLLAKR-NAEKAEAR-a12-b4
+RPS6,2,RPS6,223,,214,1215,214,,223,10_1,223,214,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.04,EASAEYAQLLAKR-NAEKAEARK-a12-b4
+RPS6,2,RPS6,235,,214,1214,214,,235,10_1,235,214,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.26,EASAEYAQLLAKR-RASSLKA-a12-b6
+RPS6,2,RPS6,235,,214,1216,214,,235,10_1,235,214,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.96,EASAEYAQLLAKR-ASSLKA-a12-b5
+RPS7,2,RPS7,75,,82,1276,83,,76,10_1,75,82,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.23,ELEKKFPDR-VQIKLTR-a4-b4
+RPS7,2,RPS7,75,,83,1284,84,,76,10_1,75,83,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.47,ELEKKFPDR-VQIKLTR-a5-b4
+RPS7,2,RPS7,82,,75,1266,76,,83,10_1,82,75,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.49,VQIKLTR-ELEKK-a4-b4
+RPS7,2,RPS7,147,,137,1292,138,,148,10_1,147,137,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.84,VLEDLVFPTEIVGKR-YLVGGNKVQK-a14-b7
+RPS8,2,RPS0,116,,144,1334,146,,116,10_1,116,144,0.232,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.03,SRNAERKWAAR-SFKEPR-a7-b3
+RPS8,2,RPS11,26,,153,1341,155,,26,10_1,26,153,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.75,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,2,RPS11,26,,153,1342,155,,26,10_1,26,153,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.02,SADAKIEHAVESQFGAGR-AKANRR-a5-b2
+RPS8,2,RPS19,69,,153,1343,155,,69,10_1,69,153,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.23,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS8,2,RPS8,125,,137,1325,139,,125,10_1,125,137,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.42,GAEEETVAKSR-KKNVK-a9-b2
+RPS8,2,RPS8,125,,153,1345,155,,125,10_1,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.61,SADAKIEHAVESQFGAGR-KKNVK-a5-b2
+RPS8,2,RPS8,125,,153,1346,155,,125,10_1,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.59,SADAKIEHAVESQFGAGR-KNVKGAEEETVAK-a5-b1
+RPS8,2,RPS8,128,,153,1344,155,,128,10_1,128,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.54,SADAKIEHAVESQFGAGR-NVKGAEEETVAK-a5-b3
+RPS8,2,RPS8,201,,37,1312,37,,199,10_1,201,37,0.018,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29,QPANTKIGGKR-RLTAKK-a6-b5
+RPS9,2,eIF3b,498,,90,1421,90,,497,10_1,500,90,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.55,IGVLSEDKKK-SNQGKEDLKK-a8-b5
+RPS9,2,eIF3b,498,,154,1494,154,,497,10_1,500,154,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.56,LESEKHIDFAR-SNQGKEDLKK-a5-b5
+RPS9,2,eIF3j,51,,179,1502,179,,51,10_1,54,179,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.86,RNNNKGSEAAEAEDEE-AKPAAK-a5-b2
+RPS9,2,eIF3j,231,,179,1505,179,,230,10_1,234,179,0.138,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.28,RNNNKGSEAAEAEDEE-GGTATGGAGKKKAK-a5-b10
+RPS9,2,eIF3j,233,,179,1503,179,,232,10_1,236,179,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.36,RNNNKGSEAAEAEDEE-GGTATGGAGKKKAK-a5-b12
+RPS9,2,RPS30,55,,29,1397,29,,55,10_1,55,29,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.76,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS9,2,RPS30,55,,115,1454,115,,55,10_1,55,115,0.043,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.05,LQTQVYKLGLAK-KMNPSPSSQ-a7-b1
+RPS9,2,RPS6,223,,179,1504,179,,223,10_1,223,179,0.091,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.09,NNNKGSEAAEAEDEE-LSERNAEKAEARK-a4-b8
+RPS9,2,RPS9,65,,92,1449,92,,65,10_1,65,92,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.99,KLDYVLALK-DEKDPKR-a1-b3
+RPS9,2,RPS9,92,,65,1409,65,,92,10_1,92,65,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.4,DLLTRDEKDPKR-KLDYVLALK-a8-b1
+RPS9,2,RPS9,92,,65,1410,65,,92,10_1,92,65,0.01,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.2,DLLTRDEKDPK-KLDYVLALK-a8-b1
+RPS9,2,RPS9,120,,179,1510,179,,120,10_1,120,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.82,RNNNKGSEAAEAEDEE-LGLAKSVHHAR-a5-b5
+RPS9,2,RPS9,120,,179,1512,179,,120,10_1,120,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.95,NNNKGSEAAEAEDEE-LGLAKSVHHAR-a4-b5
+RPS9,2,RPS9,154,,138,1487,138,,154,10_1,154,138,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.83,HIAVGKQIVNIPSFMVR-LESEKHIDFAR-a6-b5
+RPS9,2,RPS9,154,,179,1511,179,,154,10_1,154,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.05,RNNNKGSEAAEAEDEE-LESEKHIDFAR-a5-b5
+RPS9,2,RPS9,154,,179,1513,179,,154,10_1,154,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.13,NNNKGSEAAEAEDEE-LESEKHIDFAR-a4-b5
+eIF3a,2,eIF3a,549,,576,1735,589,,562,10_2,552,579,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.29,EHLIQKTNETISR-AQLAELAKALK-a6-b8
+eIF3a,2,eIF3a,576,,549,1632,562,,589,10_2,579,552,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.38,AQLAELAKALKETEGFAQGSYMNK-EHLIQKTNETISR-a8-b6
+eIF3a,2,eIF3a,586,,576,1733,589,,599,10_2,589,579,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.63,EHLIQKTNETISR-KAAEER-a6-b1
+eIF3a,2,eIF3a,586,,576,1734,589,,599,10_2,589,579,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.34,EHLIQKTNETISR-ERKAAEER-a6-b3
+eIF3a,2,eIF3a,586,,624,1969,638,,599,10_2,589,627,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.38,RMMEEKAAADAR-KAAEER-a6-b1
+eIF3a,2,eIF3a,599,,624,1971,638,,612,10_2,602,627,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.61,MMEEKAAADAR-QLEEEKLR-a5-b6
+eIF3a,2,eIF3a,636,,642,2037,656,,650,10_2,639,645,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.53,RAEEKFERER-MEAEAKR-a5-b6
+eIF3a,2,eIF3a,636,,642,2038,656,,650,10_2,639,645,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.31,AEEKFERER-MEAEAKRR-a4-b6
+eIF3a,2,eIF3a,636,,642,2039,656,,650,10_2,639,645,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.49,RAEEKFER-MEAEAKR-a5-b6
+eIF3a,2,eIF3a,642,,636,2002,650,,656,10_2,645,639,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.9,MEAEAKRR-AEEKFER-a6-b4
+eIF3a,2,eIF3a,656,,676,2148,690,,670,10_2,659,679,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.83,EAKNMDAETIR-AAVLEGEMKK-a3-b9
+eIF3a,2,eIF3a,656,,676,2149,690,,670,10_2,659,679,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.08,EAKNMDAETIRK-AAVLEGEMKK-a3-b9
+eIF3a,2,eIF3a,775,,782,2355,796,,789,10_2,778,785,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,47.13,ILATKEAK-AFKAK-a5-b3
+eIF3a,2,eIF3a,777,,785,2381,799,,791,10_2,780,788,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.03,EAKLTEAR-AKILATK-a3-b2
+eIF3a,2,eIF3a,782,,772,2337,786,,796,10_2,785,775,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.1,ISSDYKAFKAK-ILATKEAK-a6-b5
+eIF3a,2,eIF3a,782,,775,2346,789,,796,10_2,785,778,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.75,ISSDYKAFKAK-ILATKEAK-a9-b5
+eIF3a,2,eIF3a,825,,840,2517,856,,844,10_2,828,843,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.27,EAREEEEKSRAESEK-RQEELKQQQEFER-a8-b6
+eIF3a,2,eIF3a,840,,825,2489,844,,856,10_2,843,828,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.03,RQEELKQQQEFER-EAREEEEKSR-a6-b8
+eIF3a,2,eIF3a,840,,825,2490,844,,856,10_2,843,828,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.79,RQEELKQQQEFER-EEEEKSRAESEK-a6-b5
+eIF3a,2,eIF3a,847,,825,2488,844,,863,10_2,850,828,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.44,RQEELKQQQEFER-AESEKAAR-a6-b5
+eIF3a,2,eIF3c,809,,576,1732,589,,808,10_2,812,579,0.163,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.5,EHLIQKTNETISR-LNEKK-a6-b4
+eIF3a,2,eIF3c,809,,599,1825,612,,808,10_2,812,602,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.98,TRQLEEEKLR-LNEKK-a8-b4
+eIF3a,2,eIF3c,809,,599,1826,612,,808,10_2,812,602,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.68,QLEEEKLR-LNEKK-a6-b4
+eIF3a,2,eIF3c,810,,576,1731,589,,809,10_2,813,579,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.62,EHLIQKTNETISR-KFAGNAPQR-a6-b1
+eIF3a,2,eIF3g,100,,782,2354,796,,97,10_2,102,785,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.55,ILATKEAK-KAKEAK-a5-b3
+eIF3a,2,eIF3g,100,,785,2380,799,,97,10_2,102,788,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.32,EAKLTEAR-KAKEAK-a3-b3
+eIF3a,2,RPS2,124,,63,1588,63,,119,10_2,124,66,0.145,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.11,FLELGVDLKK-TAKEVASAIR-a9-b3
+eIF3b,2,eIF3a,743,,140,2606,140,,757,10_2,746,142,0.163,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.79,FGTEEFETEFREPKLPEFTPTEYLK-DLENYNDLKQR-a14-b9
+eIF3b,2,eIF3b,293,,100,2594,100,,292,10_2,295,102,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.12,KAIALLNGK-TFALPPKQK-a1-b7
+eIF3b,2,eIF3b,447,,509,2786,504,,447,10_2,449,511,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.85,VVHKIEGK-VEMKDR-a4-b4
+eIF3b,2,eIF3b,452,,467,2688,467,,452,10_2,454,469,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.49,FITISKTETADDNPAVPK-VLKFGWEPTGDR-a6-b3
+eIF3b,2,eIF3i,271,,539,2801,534,,272,10_2,271,541,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.81,KAELDFFDLDFTGEK-EGKFEAR-a1-b3
+eIF3b,2,RPS9,65,,493,2737,493,,65,10_2,65,495,0.103,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.8,DVKSNQGKEDLKK-DLLTRDEKDPKR-a3-b8
+eIF3b,2,RPS9,65,,498,2768,497,,65,10_2,65,500,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.04,DVKSNQGKEDLKK-DLLTRDEKDPKR-a8-b8
+eIF3b,2,RPS9,90,,493,2736,493,,90,10_2,90,495,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.7,DVKSNQGKEDLKK-IGVLSEDKKK-a3-b8
+eIF3b,2,RPS9,91,,493,2738,493,,91,10_2,91,495,0.114,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.57,DVKSNQGKEDLKK-IGVLSEDKKK-a3-b9
+eIF3c,2,eIF1,56,,88,2847,92,,56,10_2,59,91,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.87,FLKNANYSDSEDSDDEGR-ILKVLKK-a3-b3
+eIF3c,2,eIF3a,599,,810,2961,809,,612,10_2,602,813,0.093,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.15,KFAGNAPQR-QLEEEKLR-a1-b6
+eIF3c,2,eIF3c,76,,104,2890,110,,82,10_2,79,107,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.98,NANYSDSEDSDDEGRKVVK-KGGASSGANR-a16-b1
+eIF3c,2,eIF3c,198,,187,2906,193,,204,10_2,201,190,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.54,AVAKAYNTTK-VKKVAR-a4-b3
+eIF3c,2,eIF3c,681,,662,2930,661,,680,10_2,684,665,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.78,ALEHYEKSSFQGPPETLR-DHVLYAAKSMQR-a7-b8
+eIF3c,2,eIF3c,797,,662,2931,661,,796,10_2,800,665,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.87,ALEHYEKSSFQGPPETLR-LAKETK-a7-b3
+eIF3c,2,eIF3c,797,,662,2932,661,,796,10_2,800,665,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.84,RALEHYEKSSFQGPPETLR-LAKETK-a8-b3
+eIF3c,2,RPS27,72,,270,2910,267,,72,10_2,72,273,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.19,GKKGTDHQAQIK-AKLSEGTSFR-a2-b2
+eIF3c,2,RPS5,222,,651,2921,650,,222,10_2,222,654,0.093,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.06,RIPYSQKSIR-VAKSNR-a7-b3
+eIF3i,2,eIF3i,271,,289,3117,290,,272,10_2,271,289,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.95,VKGHFGPLNYVAVSPQGTSYASGGEDGFVR-EGKFEAR-a2-b3
+eIF3j,2,eIF3j,156,,148,3134,147,,155,10_2,159,151,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.66,DTPIESHPLFEGETKADYQELR-KALSTAITSMHEK-a15-b1
+RACK1,2,RACK1,130,,108,61,107,,129,10_2,130,108,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.67,FVGHKSDVLSVAIDRR-DKTVK-a5-b2
+RACK1,2,RACK1,130,,108,62,107,,129,10_2,130,108,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.36,FVGHKSDVLSVAIDR-DKTVK-a5-b2
+RPS0,2,eIF3a,624,,88,80,88,,638,10_2,627,88,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.96,AVLKFSAHTGATAIAGR-MMEEKAAADAR-a4-b5
+RPS1,2,eIF3a,95,,249,155,248,,95,10_2,98,249,0.103,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.78,VAGGFKDEILESV-KFIDLIEAK-a6-b1
+RPS1,2,RPS1,19,,50,108,50,,19,10_2,19,50,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.95,TLVNKSTGLK-KVVDPFTR-a5-b1
+RPS1,2,RPS1,19,,50,109,50,,19,10_2,19,50,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.95,TLVNKSTGLK-KVVDPFTRK-a5-b1
+RPS1,2,RPS1,45,,33,97,33,,45,10_2,45,33,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.01,EWFDIKAPSTFENR-NVGKTLVNK-a6-b4
+RPS1,2,RPS1,45,,94,129,94,,45,10_2,45,94,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.89,LRVDEVQGKNLLTNFHGLDFTTDKLR-NVGKTLVNK-a9-b4
+RPS1,2,RPS1,50,,94,128,94,,50,10_2,50,94,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.82,LRVDEVQGKNLLTNFHGLDFTTDKLR-TLVNKSTGLK-a9-b5
+RPS10,2,eIF3j,219,,52,190,52,,218,10_2,222,52,0.122,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.27,ALQSLTSKGYVK-LAKVR-a8-b3
+RPS10,2,RPS10,5,,52,192,52,,5,10_2,5,52,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.53,ALQSLTSKGYVK-MLIPKEER-a8-b5
+RPS10,2,RPS10,10,,31,174,31,,10,10_2,10,31,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.55,DFNQAKHEDIDTK-TKIHR-a6-b2
+RPS10,2,RPS10,10,,31,175,31,,10,10_2,10,31,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.26,KDFNQAKHEDIDTK-TKIHR-a7-b2
+RPS11,2,eIF3g,198,,141,258,141,,191,10_2,200,141,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.12,FNVLKVSSPAGK-ERDDAKTLK-a5-b6
+RPS11,2,RPS11,43,,141,260,141,,43,10_2,43,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.17,FNVLKVSSPAGK-NAGLGFKTPK-a5-b7
+RPS11,2,RPS11,43,,141,263,141,,43,10_2,43,141,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.84,TVRFNVLKVSSPAGK-NAGLGFKTPK-a8-b7
+RPS11,2,RPS11,141,,36,202,36,,141,10_2,141,36,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.6,WYKNAGLGFKTPK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,43,210,43,,141,10_2,141,43,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.1,WYKNAGLGFKTPK-FNVLKVSSPAGK-a10-b5
+RPS11,2,RPS11,141,,46,221,46,,141,10_2,141,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,45.45,TPKTAIEGSYIDKK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,46,222,46,,141,10_2,141,46,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.87,NAGLGFKTPKTAIEGSYIDKK-FNVLKVSSPAGK-a10-b5
+RPS11,2,RPS11,148,,43,211,43,,148,10_2,148,43,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.16,NAGLGFKTPK-VSSPAGKSNK-a7-b7
+RPS11,2,RPS11,151,,141,261,141,,151,10_2,151,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.02,FNVLKVSSPAGK-SNKQFTKF-a5-b3
+RPS11,2,RPS11,151,,141,262,141,,151,10_2,151,141,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.87,FNVLKVSSPAGK-SNKQFTK-a5-b3
+RPS11,2,RPS11,155,,46,223,46,,155,10_2,155,46,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.56,TPKTAIEGSYIDKK-QFTKF-a3-b4
+RPS11,2,RPS11,155,,141,259,141,,155,10_2,155,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,45.05,FNVLKVSSPAGK-SNKQFTKF-a5-b7
+RPS11,2,RPS11,155,,141,264,141,,155,10_2,155,141,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.15,FNVLKVSSPAGK-QFTKF-a5-b4
+RPS12,2,RPS10,52,,105,303,105,,52,10_2,52,105,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.34,QLGEWAGLGKIDREGNAR-ALQSLTSKGYVK-a10-b8
+RPS12,2,RPS31,113,,85,295,85,,113,10_2,36,85,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.61,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS13,2,RPS13,43,,39,321,39,,43,10_2,43,39,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.83,LSPDTVVEQIIKYAR-KGLTPSQIGVLLR-a12-b1
+RPS13,2,RPS13,100,,112,336,112,,100,10_2,100,112,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33,DKDAKFR-KHLER-a5-b1
+RPS14,2,RPS5,222,,50,348,50,,222,10_2,222,50,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.84,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS14,2,RPS7,75,,48,344,48,,76,10_2,75,48,0.122,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.3,VTGGMKVKADR-VQIKLTR-a6-b4
+RPS15,2,RPS15,13,,24,385,24,,13,10_2,13,24,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.85,GVDLEKMLEMPTEEFVK-TFKTYSYK-a6-b3
+RPS15,2,RPS15,13,,64,399,64,,13,10_2,13,64,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.21,AAKLAAPENEKPAVVR-TFKTYSYK-a3-b3
+RPS15,2,RPS15,13,,64,400,64,,13,10_2,13,64,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.27,AAKLAAPENEKPAVVR-KRTFKTYSYK-a3-b5
+RPS15,2,RPS15,13,,72,410,72,,13,10_2,13,72,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.03,LAAPENEKPAVVR-TFKTYSYK-a8-b3
+RPS15,2,RPS15,13,,72,411,72,,13,10_2,13,72,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.32,LAAPENEKPAVVR-KRTFKTYSYK-a8-b5
+RPS15,2,RPS15,72,,108,418,108,,72,10_2,72,108,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.71,SFNQVEIKPEMVGHYLGEFSITYTPVR-LAAPENEKPAVVR-a8-b8
+RPS16,2,RPS16,23,,95,433,94,,24,10_2,23,95,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.42,GLVAYHQKFVDEQSKNELKK-SATAVAHVKAGK-a8-b9
+RPS17,2,eIF3a,624,,81,472,81,,638,10_2,627,81,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.52,KDQYVPDVSALDLSHSK-MMEEKAAADAR-a1-b5
+RPS17,2,RPS0,116,,72,446,72,,116,10_2,116,72,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,447,72,,116,10_2,116,72,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.33,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,448,72,,116,10_2,116,72,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.02,GISFKLQEEERERK-SFKEPR-a5-b3
+RPS17,2,RPS17,7,,14,438,14,,7,10_2,7,14,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.89,ASKALIER-TKTVKR-a3-b2
+RPS17,2,RPS17,14,,72,449,72,,14,10_2,14,72,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.46,GISFKLQEEERER-ASKALIER-a5-b3
+RPS17,2,RPS17,63,,59,440,59,,63,10_2,63,59,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.61,IAGYTTHLMKR-IQKGPVR-a10-b3
+RPS17,2,RPS17,63,,81,474,81,,63,10_2,63,81,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.84,LQEEERERKDQYVPDVSALDLSHSK-IQKGPVR-a9-b3
+RPS17,2,RPS17,63,,81,475,81,,63,10_2,63,81,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.12,KDQYVPDVSALDLSHSK-IQKGPVR-a1-b3
+RPS18,2,RPS15,13,,96,555,96,,13,10_2,13,96,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.37,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,2,RPS15,13,,96,556,96,,13,10_2,13,96,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.74,QKDVNDGKNYHTLANNLESK-TFKTYSYKGVDLEK-a8-b3
+RPS18,2,RPS15,24,,96,557,96,,24,10_2,24,96,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.02,QKDVNDGKNYHTLANNLESK-GVDLEKMLEMPTEEFVK-a8-b6
+RPS18,2,RPS18,49,,80,512,80,,49,10_2,49,80,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.3,IVQIMQNPTQYKIPAWFLNR-KADVDLHKR-a12-b1
+RPS18,2,RPS18,49,,80,514,80,,49,10_2,49,80,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.03,IVQIMQNPTQYKIPAWFLNR-KADVDLHK-a12-b1
+RPS18,2,RPS18,56,,80,513,80,,56,10_2,56,80,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.25,IVQIMQNPTQYKIPAWFLNR-KADVDLHKR-a12-b8
+RPS19,2,RPS19,27,,110,589,110,,27,10_2,27,110,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.54,VLQALEKIGVVEISPK-QGKLEVPGYVDIVK-a7-b3
+RPS19,2,RPS19,69,,119,600,119,,69,10_2,69,119,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.76,IGVVEISPKGGRR-KQVGVGK-a9-b1
+RPS2,2,RPS2,51,,38,612,33,,46,10_2,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.95,RETEEKGWVPVTK-LVKAGK-a6-b3
+RPS2,2,RPS2,51,,38,613,33,,46,10_2,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.96,ETEEKGWVPVTK-LVKAGK-a5-b3
+RPS2,2,RPS2,51,,38,614,33,,46,10_2,51,38,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.56,GGRRETEEKGWVPVTK-LVKAGK-a9-b3
+RPS2,2,RPS3,148,,124,644,119,,148,10_2,148,124,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.48,TAKEVASAIR-AKSMK-a3-b2
+RPS2,2,RPS3,194,,38,610,33,,194,10_2,194,38,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.25,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,2,RPS30,55,,191,654,186,,55,10_2,55,191,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.24,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,2,eIF3c,644,,6,665,6,,643,10_2,647,6,0.163,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.7,MSDIQKEKVEQQEQPQIHK-VKRIPYSQK-a6-b2
+RPS20,2,eIF3j,246,,8,677,8,,244,10_2,249,8,0.044,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34,EKVEQQEQPQIHK-AARPNLGGAFKK-a2-b11
+RPS20,2,RPS20,47,,8,680,8,,49,10_2,47,8,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.87,EKVEQQEQPQIHK-NAENYKLVK-a2-b6
+RPS20,2,RPS20,51,,19,706,21,,53,10_2,51,19,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.95,EKVEQQEQPQIHKIR-KGPVRLPTK-a13-b1
+RPS20,2,RPS20,51,,19,707,21,,53,10_2,51,19,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.48,VEQQEQPQIHKIR-KGPVRLPTK-a11-b1
+RPS20,2,RPS24,102,,8,676,8,,102,10_2,102,8,0.044,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.08,EKVEQQEQPQIHK-VEKASRQQRK-a2-b3
+RPS20,2,RPS3,45,,99,721,101,,45,10_2,45,99,0.044,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.97,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS20,2,RPS4,245,,99,722,101,,245,10_2,245,99,0.082,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.41,YIDLQAPAQIVKR-GKGIKLSIAEER-a12-b5
+RPS21,2,RPS21,80,,38,734,38,,80,10_2,80,38,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30,AKDHASVQINVAKVDEEGR-LAQNDGLLKNVWSYSR-a13-b9
+RPS21,2,RPS26,4,,5,730,5,,4,10_2,4,5,0.145,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.11,MENDKGQLVELYVPR-KRASNGRNK-a5-b1
+RPS21,2,RPS26,12,,5,729,5,,12,10_2,12,5,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.8,MENDKGQLVELYVPR-RASNGRNKK-a5-b8
+RPS21,2,RPS26,12,,5,731,5,,12,10_2,12,5,0.172,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.04,MENDKGQLVELYVPRK-RASNGRNKK-a5-b8
+RPS22,2,RPS7,147,,36,741,36,,148,10_2,147,36,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.14,VIIKFLQVMQK-YLVGGNKVQK-a4-b7
+RPS23,2,RPS9,37,,56,754,56,,37,10_2,37,56,0.103,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.67,GIVLEKIGIESK-LAGEYGLKNK-a6-b8
+RPS24,2,RPS24,49,,21,758,21,,49,10_2,49,21,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.8,KQFVIDVLHPNR-LSEIYKAEK-a1-b6
+RPS24,2,RPS24,99,,83,778,83,,99,10_2,99,83,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.93,STGFGLVYNSVADAKK-YGLAEKVEK-a15-b6
+RPS24,2,RPS9,138,,68,772,68,,138,10_2,138,68,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.72,TQFGGGKSTGFGLVYNSVADAK-HIAVGKQIVNIPSFMVR-a7-b6
+RPS25,2,RPS18,48,,46,826,46,,48,10_2,48,46,0.172,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.07,AQHAVVLEQEKLDR-RYANLVCKK-a11-b8
+RPS25,2,RPS25,33,,46,833,46,,33,10_2,33,46,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.25,AQHAVVLEQEKLDR-KSHKDK-a11-b4
+RPS25,2,RPS25,52,,46,830,46,,52,10_2,52,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.11,AQHAVVLEQEKLDR-IYKEVPTYR-a11-b3
+RPS25,2,RPS25,52,,46,832,46,,52,10_2,52,46,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.23,DKAQHAVVLEQEKLDR-IYKEVPTYR-a13-b3
+RPS25,2,RPS25,70,,46,829,46,,70,10_2,70,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.02,AQHAVVLEQEKLDR-LKIGGSMAR-a11-b2
+RPS25,2,RPS25,70,,46,831,46,,70,10_2,70,46,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.66,DKAQHAVVLEQEKLDR-LKIGGSMAR-a13-b2
+RPS25,2,RPS25,70,,52,867,52,,70,10_2,70,52,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.65,IYKEVPTYR-LKIGGSMAR-a3-b2
+RPS25,2,RPS25,90,,21,812,21,,90,10_2,90,21,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.16,AAAALAGGKK-DGIIKPVSK-a9-b5
+RPS25,2,RPS5,213,,21,811,21,,213,10_2,213,21,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.79,AAAALAGGKK-KKDELER-a9-b1
+RPS25,2,RPS5,214,,21,810,21,,214,10_2,214,21,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.53,AAAALAGGKK-KKDELER-a9-b2
+RPS25,2,RPS5,222,,12,801,12,,222,10_2,222,12,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.12,AAKAAAALAGGKK-VAKSNR-a3-b3
+RPS25,2,RPS5,222,,12,802,12,,222,10_2,222,12,0.082,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.57,AAKAAAALAGGK-VAKSNR-a3-b3
+RPS25,2,RPS9,51,,12,803,12,,51,10_2,51,12,0.103,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.8,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,2,RPS17,14,,4,876,4,,14,10_2,14,4,0.163,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.7,KRASNGRNK-RASKALIER-a1-b4
+RPS26,2,RPS28,14,,116,900,116,,14,10_2,14,116,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.8,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,2,RACK1,130,,212,988,212,,129,10_2,130,212,0.082,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.1,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,2,RPS15,52,,148,964,148,,52,10_2,52,148,0.044,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.88,AARAKSMKFADGFLIHSGQPVNDFIDTATR-GLSSKPAGLMKK-a5-b5
+RPS3,2,RPS2,38,,207,971,207,,33,10_2,38,207,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.18,ALPDAVKILEPKDEEPISEPSVK-ETEEKGWVPVTK-a7-b5
+RPS3,2,RPS3,194,,207,972,207,,194,10_2,194,207,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.7,ALPDAVKILEPKDEEPISEPSVK-IMRDPSKNR-a7-b7
+RPS3,2,RPS30,53,,106,919,106,,53,10_2,53,106,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.61,GLSAVAQAESLKFKLLNGLAIR-FVNVTLTNGKR-a12-b10
+RPS3,2,RPS30,55,,106,920,106,,55,10_2,55,106,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.21,GLSAVAQAESLKFKLLNGLAIR-KMNPSPSSQ-a12-b1
+RPS3,2,RPS30,55,,108,935,108,,55,10_2,55,108,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.03,GLSAVAQAESLKFKLLNGLAIR-KMNPSPSSQ-a14-b1
+RPS3,2,RPS30,55,,108,936,108,,55,10_2,55,108,0.103,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.83,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS3,2,RPS30,55,,108,937,108,,55,10_2,55,108,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.98,FKLLNGLAIRR-KMNPSPSSQ-a2-b1
+RPS3,2,RPS30,55,,108,938,108,,55,10_2,55,108,0.17,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.35,GLSAVAQAESLKFKLLNGLAIRR-KMNPSPSSQ-a14-b1
+RPS3,2,RPS4,62,,75,917,75,,62,10_2,62,75,0.17,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.37,INELTLLVQKRFR-EVKAIMMQRHVK-a10-b3
+RPS30,2,RPS3,108,,53,1025,53,,108,10_2,108,53,0.114,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.42,FVNVTLTNGKR-FKLLNGLAIR-a10-b2
+RPS30,2,RPS30,55,,28,1017,28,,55,10_2,55,28,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.54,VEKQEKPKQPK-KMNPSPSSQ-a8-b1
+RPS31,2,RPS13,109,,107,1040,107,,109,10_2,109,30,0.172,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.15,LAVLNYFKVDAEGK-DKDAK-a8-b2
+RPS4,2,RPS30,13,,211,1122,211,,13,10_2,13,211,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.74,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,2,RPS4,242,,211,1124,211,,242,10_2,242,211,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.64,HEGGFDLVHIKDSLDNTFVTR-GKGIK-a11-b2
+RPS4,2,RPS4,242,,211,1125,211,,242,10_2,242,211,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.57,ERHEGGFDLVHIKDSLDNTFVTR-GKGIK-a13-b2
+RPS4,2,RPS6,196,,168,1080,168,,196,10_2,196,168,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.71,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,196,,168,1081,168,,196,10_2,196,168,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.91,IDLASGKITDYIKFDTGK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,223,,155,1055,155,,223,10_2,223,155,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.11,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,2,RPS6,223,,161,1065,161,,223,10_2,223,161,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.5,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,174,1094,174,,223,10_2,223,174,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.84,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,179,1103,179,,223,10_2,223,179,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.82,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,2,RPS6,223,,179,1104,179,,223,10_2,223,179,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.42,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,2,RPS6,235,,161,1066,161,,235,10_2,235,161,0.093,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.19,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,2,RPS6,235,,161,1067,161,,235,10_2,235,161,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.01,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,2,RPS6,235,,211,1123,211,,235,10_2,235,211,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.1,HEGGFDLVHIKDSLDNTFVTR-ASSLKA-a11-b5
+RPS5,2,RACK1,130,,222,1183,222,,129,10_2,130,222,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.57,DELERVAKSNR-DKTVK-a8-b2
+RPS5,2,RPS25,90,,45,1144,45,,90,10_2,90,45,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.3,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,2,RPS4,168,,214,1217,214,,168,10_2,168,214,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.34,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS6,2,RPS6,223,,214,1218,214,,223,10_2,223,214,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.44,EASAEYAQLLAKR-NAEKAEAR-a12-b4
+RPS6,2,RPS6,223,,214,1219,214,,223,10_2,223,214,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.07,EASAEYAQLLAKR-NAEKAEARK-a12-b4
+RPS7,2,RPS7,75,,82,1277,83,,76,10_2,75,82,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.55,ELEKKFPDR-VQIKLTR-a4-b4
+RPS7,2,RPS7,75,,83,1285,84,,76,10_2,75,83,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.76,ELEKKFPDR-VQIKLTR-a5-b4
+RPS7,2,RPS7,82,,54,1248,55,,83,10_2,82,54,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.57,SIREIEVAGGKK-ELEKK-a11-b4
+RPS7,2,RPS7,147,,137,1294,138,,148,10_2,147,137,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.07,VLEDLVFPTEIVGKR-YLVGGNKVQK-a14-b7
+RPS8,2,eIF3a,657,,153,1349,155,,671,10_2,660,153,0.122,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.28,SADAKIEHAVESQFGAGR-KLIEEVNAKGIIYIDPK-a5-b1
+RPS8,2,RPS11,26,,153,1347,155,,26,10_2,26,153,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,49.59,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,2,RPS19,69,,153,1348,155,,69,10_2,69,153,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.9,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS8,2,RPS31,116,,137,1327,139,,116,10_2,39,137,0.097,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.36,GAEEETVAKSR-VTKLR-a9-b3
+RPS8,2,RPS8,125,,137,1328,139,,125,10_2,125,137,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.08,GAEEETVAKSR-KKNVK-a9-b2
+RPS8,2,RPS8,125,,153,1352,155,,125,10_2,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.05,SADAKIEHAVESQFGAGR-KKNVK-a5-b2
+RPS8,2,RPS8,125,,153,1353,155,,125,10_2,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.12,SADAKIEHAVESQFGAGR-KNVKGAEEETVAK-a5-b1
+RPS8,2,RPS8,128,,153,1350,155,,128,10_2,128,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,49.99,SADAKIEHAVESQFGAGR-KKNVKGAEEETVAK-a5-b5
+RPS8,2,RPS8,128,,153,1354,155,,128,10_2,128,153,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.52,SADAKIEHAVESQFGAGR-NVKGAEEETVAK-a5-b3
+RPS8,2,RPS8,137,,153,1355,155,,135,10_2,137,153,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.7,SADAKIEHAVESQFGAGR-GAEEETVAKSR-a5-b9
+RPS8,2,RPS8,144,,153,1351,155,,142,10_2,144,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.54,SADAKIEHAVESQFGAGR-KWAAR-a5-b1
+RPS9,2,eIF3a,802,,179,1518,179,,816,10_2,805,179,0.122,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.29,NNNKGSEAAEAEDEE-NLAKFEAAKKAR-a4-b10
+RPS9,2,eIF3b,447,,115,1459,115,,447,10_2,449,115,0.163,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.79,RLQTQVYKLGLAK-VEMKDR-a8-b4
+RPS9,2,eIF3b,498,,90,1423,90,,497,10_2,500,90,0.044,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.86,IGVLSEDKKK-SNQGKEDLKK-a8-b5
+RPS9,2,eIF3b,498,,90,1424,90,,497,10_2,500,90,0.172,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.21,IGVLSEDKKKLDYVLALK-SNQGKEDLKK-a8-b5
+RPS9,2,eIF3b,498,,92,1450,92,,497,10_2,500,92,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.62,IGVLSEDKKKLDYVLALK-SNQGKEDLKK-a10-b5
+RPS9,2,eIF3b,498,,154,1496,154,,497,10_2,500,154,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.8,LESEKHIDFAR-SNQGKEDLKK-a5-b5
+RPS9,2,eIF3j,51,,179,1514,179,,51,10_2,54,179,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.78,RNNNKGSEAAEAEDEE-AKPAAK-a5-b2
+RPS9,2,eIF3j,55,,179,1519,179,,55,10_2,58,179,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29,RNNNKGSEAAEAEDEE-AKPAAKK-a5-b6
+RPS9,2,eIF3j,231,,179,1517,179,,230,10_2,234,179,0.082,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.75,RNNNKGSEAAEAEDEE-GGTATGGAGKKKAK-a5-b10
+RPS9,2,eIF3j,233,,179,1515,179,,232,10_2,236,179,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.19,RNNNKGSEAAEAEDEE-GGTATGGAGKKKAK-a5-b12
+RPS9,2,RPS3,148,,179,1516,179,,148,10_2,148,179,0.025,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.27,VARRNNNKGSEAAEAEDEE-AARAKSMK-a8-b5
+RPS9,2,RPS30,55,,29,1398,29,,55,10_2,55,29,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.73,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS9,2,RPS30,55,,115,1458,115,,55,10_2,55,115,0.093,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.12,LQTQVYKLGLAK-KMNPSPSSQ-a7-b1
+RPS9,2,RPS30,55,,120,1483,120,,55,10_2,55,120,0.093,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.3,LGLAKSVHHAR-KMNPSPSSQ-a5-b1
+RPS9,2,RPS9,90,,65,1412,65,,90,10_2,90,65,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.88,DLLTRDEKDPKR-IGVLSEDKKK-a8-b8
+RPS9,2,RPS9,92,,65,1411,65,,92,10_2,92,65,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.89,DLLTRDEKDPKR-KLDYVLALK-a8-b1
+RPS9,2,RPS9,120,,179,1525,179,,120,10_2,120,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.35,RNNNKGSEAAEAEDEE-LGLAKSVHHAR-a5-b5
+RPS9,2,RPS9,120,,179,1527,179,,120,10_2,120,179,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.46,NNNKGSEAAEAEDEE-LGLAKSVHHAR-a4-b5
+RPS9,2,RPS9,154,,115,1462,115,,154,10_2,154,115,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.93,LQTQVYKLGLAK-LESEKHIDFAR-a7-b5
+RPS9,2,RPS9,154,,115,1463,115,,154,10_2,154,115,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.9,RLQTQVYKLGLAK-LESEKHIDFAR-a8-b5
+RPS9,2,RPS9,154,,138,1488,138,,154,10_2,154,138,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.37,HIAVGKQIVNIPSFMVR-LESEKHIDFAR-a6-b5
+RPS9,2,RPS9,154,,179,1526,179,,154,10_2,154,179,0.012,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.06,RNNNKGSEAAEAEDEE-LESEKHIDFAR-a5-b5
+RPS9,2,RPS9,154,,179,1528,179,,154,10_2,154,179,0.013,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.01,NNNKGSEAAEAEDEE-LESEKHIDFAR-a4-b5
+eIF3a,2,eIF3a,549,,576,1738,589,,562,10_3,552,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.5,EHLIQKTNETISR-AQLAELAKALK-a6-b8
+eIF3a,2,eIF3a,576,,549,1633,562,,589,10_3,579,552,0.016,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.51,AQLAELAKALKETEGFAQGSYMNK-EHLIQKTNETISR-a8-b6
+eIF3a,2,eIF3a,576,,552,1649,565,,589,10_3,579,555,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35,AQLAELAKALKETEGFAQGSYMNK-EHLIQKTNETISR-a11-b6
+eIF3a,2,eIF3a,576,,552,1650,565,,589,10_3,579,555,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.71,ALKETEGFAQGSYMNK-EHLIQKTNETISR-a3-b6
+eIF3a,2,eIF3a,586,,576,1737,589,,599,10_3,589,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.7,EHLIQKTNETISR-KAAEER-a6-b1
+eIF3a,2,eIF3a,586,,576,1739,589,,599,10_3,589,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.34,EHLIQKTNETISR-ERKAAEER-a6-b3
+eIF3a,2,eIF3a,586,,624,1976,638,,599,10_3,589,627,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.12,MMEEKAAADAR-ERKAAEER-a5-b3
+eIF3a,2,eIF3a,586,,624,1977,638,,599,10_3,589,627,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.15,RMMEEKAAADAR-KAAEER-a6-b1
+eIF3a,2,eIF3a,599,,624,1974,638,,612,10_3,602,627,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.43,MMEEKAAADAR-QLEEEKLR-a5-b6
+eIF3a,2,eIF3a,624,,576,1740,589,,638,10_3,627,579,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.46,EHLIQKTNETISR-MMEEKAAADAR-a6-b5
+eIF3a,2,eIF3a,636,,642,2041,656,,650,10_3,639,645,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.13,RAEEKFERER-MEAEAKR-a5-b6
+eIF3a,2,eIF3a,636,,642,2042,656,,650,10_3,639,645,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.38,AEEKFERER-MEAEAKRR-a4-b6
+eIF3a,2,eIF3a,642,,636,2003,650,,656,10_3,645,639,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.98,MEAEAKRR-AEEKFER-a6-b4
+eIF3a,2,eIF3a,656,,676,2151,690,,670,10_3,659,679,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.01,EAKNMDAETIR-AAVLEGEMKK-a3-b9
+eIF3a,2,eIF3a,766,,751,2273,765,,780,10_3,769,754,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.58,LVGAGKKEHEEELKLHER-LIKISSDYK-a6-b3
+eIF3a,2,eIF3a,777,,785,2383,799,,791,10_3,780,788,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.73,EAKLTEAR-AKILATK-a3-b2
+eIF3a,2,eIF3a,782,,772,2340,786,,796,10_3,785,775,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.72,ISSDYKAFKAK-ILATKEAK-a6-b5
+eIF3a,2,eIF3a,825,,840,2519,856,,844,10_3,828,843,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.42,EAREEEEKSRAESEK-RQEELKQQQEFER-a8-b6
+eIF3a,2,eIF3a,840,,825,2494,844,,856,10_3,843,828,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.77,RQEELKQQQEFER-EAREEEEKSR-a6-b8
+eIF3a,2,eIF3a,847,,825,2493,844,,863,10_3,850,828,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.94,RQEELKQQQEFER-AESEKAAR-a6-b5
+eIF3a,2,eIF3c,809,,599,1829,612,,808,10_3,812,602,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.14,TRQLEEEKLR-LNEKK-a8-b4
+eIF3a,2,eIF3c,810,,576,1736,589,,809,10_3,813,579,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.1,EHLIQKTNETISR-KFAGNAPQR-a6-b1
+eIF3a,2,eIF3i,271,,624,1972,638,,272,10_3,271,627,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.81,MMEEKAAADAR-EGKFEAR-a5-b3
+eIF3a,2,RPS16,106,,599,1830,612,,107,10_3,106,602,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.13,QLEEEKLR-NELKK-a6-b4
+eIF3b,2,eIF3a,743,,140,2607,140,,757,10_3,746,142,0.171,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.38,FGTEEFETEFREPKLPEFTPTEYLK-DLENYNDLKQR-a14-b9
+eIF3b,2,eIF3a,766,,85,2591,85,,780,10_3,769,87,0.239,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.17,KTTKGYLFVEFDSAVAAKK-LIKISSDYK-a4-b3
+eIF3b,2,eIF3b,293,,100,2595,100,,292,10_3,295,102,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.93,KAIALLNGK-TFALPPKQK-a1-b7
+eIF3b,2,eIF3b,447,,509,2787,504,,447,10_3,449,511,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.36,VVHKIEGK-VEMKDR-a4-b4
+eIF3b,2,eIF3b,452,,467,2689,467,,452,10_3,454,469,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.06,FITISKTETADDNPAVPK-VLKFGWEPTGDR-a6-b3
+eIF3b,2,eIF3b,509,,443,2647,443,,504,10_3,511,445,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.94,EIPVEKVEMKDR-VVHKIEGK-a6-b4
+eIF3b,2,eIF3b,509,,447,2662,447,,504,10_3,511,449,0.016,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.44,EIPVEKVEMKDR-WKVVHKIEGK-a10-b6
+eIF3b,2,eIF3b,509,,479,2699,479,,504,10_3,511,481,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.93,TETADDNPAVPKNVVTFFAPEKK-VVHKIEGK-a12-b4
+eIF3b,2,eIF3b,539,,479,2698,479,,534,10_3,541,481,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.25,TETADDNPAVPKNVVTFFAPEKK-KAELDFFDLDFTGEK-a12-b1
+eIF3b,2,eIF3i,271,,539,2802,534,,272,10_3,271,541,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.44,KAELDFFDLDFTGEK-EGKFEAR-a1-b3
+eIF3b,2,RPS9,65,,493,2739,493,,65,10_3,65,495,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.01,DVKSNQGKEDLKK-DLLTRDEKDPKR-a3-b8
+eIF3b,2,RPS9,65,,498,2769,497,,65,10_3,65,500,0.105,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.98,DVKSNQGKEDLKK-DLLTRDEKDPKR-a8-b8
+eIF3c,2,eIF3a,599,,810,2962,809,,612,10_3,602,813,0.239,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.01,KFAGNAPQR-QLEEEKLR-a1-b6
+eIF3c,2,eIF3c,76,,104,2891,110,,82,10_3,79,107,0.016,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.45,NANYSDSEDSDDEGRKVVK-KGGASSGANR-a16-b1
+eIF3c,2,eIF3c,681,,662,2934,661,,680,10_3,684,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.92,ALEHYEKSSFQGPPETLR-DHVLYAAKSMQR-a7-b8
+eIF3c,2,eIF3c,797,,662,2935,661,,796,10_3,800,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.16,ALEHYEKSSFQGPPETLR-LAKETK-a7-b3
+eIF3c,2,eIF3c,797,,662,2936,661,,796,10_3,800,665,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.15,RALEHYEKSSFQGPPETLR-LAKETK-a8-b3
+eIF3c,2,RPS1,7,,271,2913,268,,7,10_3,7,274,0.239,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.01,KGTDHQAQIK-NKRLSK-a1-b2
+eIF3c,2,RPS27,72,,271,2912,268,,72,10_3,72,274,0.14,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.23,GKKGTDHQAQIK-AKLSEGTSFR-a3-b2
+eIF3i,2,eIF3i,271,,289,3118,290,,272,10_3,271,289,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.38,VKGHFGPLNYVAVSPQGTSYASGGEDGFVR-EGKFEAR-a2-b3
+eIF3j,2,eIF3j,156,,148,3136,147,,155,10_3,159,151,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,48.17,DTPIESHPLFEGETKADYQELR-KALSTAITSMHEK-a15-b1
+RACK1,2,RACK1,130,,108,63,107,,129,10_3,130,108,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.5,FVGHKSDVLSVAIDRR-DKTVK-a5-b2
+RACK1,2,RACK1,130,,108,64,107,,129,10_3,130,108,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.97,FVGHKSDVLSVAIDR-DKTVK-a5-b2
+RPS0,2,eIF3a,624,,88,81,88,,638,10_3,627,88,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.14,AVLKFSAHTGATAIAGR-MMEEKAAADAR-a4-b5
+RPS0,2,RPS17,81,,88,82,88,,81,10_3,81,88,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.63,AVLKFSAHTGATAIAGR-KDQYVPDVSALDLSHSK-a4-b1
+RPS1,2,eIF3a,95,,249,156,248,,95,10_3,98,249,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.31,VAGGFKDEILESV-KFIDLIEAK-a6-b1
+RPS1,2,RPS1,19,,50,110,50,,19,10_3,19,50,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.62,TLVNKSTGLK-KVVDPFTRK-a5-b1
+RPS1,2,RPS1,19,,50,111,50,,19,10_3,19,50,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.77,TLVNKSTGLK-KVVDPFTR-a5-b1
+RPS1,2,RPS1,45,,33,98,33,,45,10_3,45,33,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.02,EWFDIKAPSTFENR-NVGKTLVNK-a6-b4
+RPS1,2,RPS1,45,,94,132,94,,45,10_3,45,94,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.87,LRVDEVQGKNLLTNFHGLDFTTDKLR-NVGKTLVNK-a9-b4
+RPS1,2,RPS1,50,,94,131,94,,50,10_3,50,94,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38,LRVDEVQGKNLLTNFHGLDFTTDKLR-TLVNKSTGLK-a9-b5
+RPS10,2,eIF3j,219,,52,193,52,,218,10_3,222,52,0.183,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.21,ALQSLTSKGYVK-LAKVR-a8-b3
+RPS10,2,RPS10,5,,52,194,52,,5,10_3,5,52,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.33,ALQSLTSKGYVK-MLIPKEER-a8-b5
+RPS10,2,RPS10,10,,25,168,25,,10,10_3,10,25,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.01,KDFNQAKHEDIDTKNLYVIK-TKIHR-a1-b2
+RPS10,2,RPS10,10,,31,176,31,,10,10_3,10,31,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.33,DFNQAKHEDIDTK-TKIHR-a6-b2
+RPS10,2,RPS10,10,,31,177,31,,10,10_3,10,31,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.62,KDFNQAKHEDIDTKNLYVIK-TKIHR-a7-b2
+RPS10,2,RPS10,10,,31,178,31,,10,10_3,10,31,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.69,KDFNQAKHEDIDTK-TKIHR-a7-b2
+RPS11,2,eIF3g,198,,141,265,141,,191,10_3,200,141,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.58,FNVLKVSSPAGK-ERDDAKTLK-a5-b6
+RPS11,2,RPS11,43,,141,267,141,,43,10_3,43,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.6,FNVLKVSSPAGK-NAGLGFKTPK-a5-b7
+RPS11,2,RPS11,43,,141,268,141,,43,10_3,43,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.8,TVRFNVLKVSSPAGK-NAGLGFKTPK-a8-b7
+RPS11,2,RPS11,141,,36,203,36,,141,10_3,141,36,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.17,WYKNAGLGFKTPK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,43,213,43,,141,10_3,141,43,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.09,WYKNAGLGFKTPK-FNVLKVSSPAGK-a10-b5
+RPS11,2,RPS11,141,,46,224,46,,141,10_3,141,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,46.78,TPKTAIEGSYIDKK-FNVLKVSSPAGK-a3-b5
+RPS11,2,RPS11,141,,46,225,46,,141,10_3,141,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.33,NAGLGFKTPKTAIEGSYIDKK-FNVLKVSSPAGK-a10-b5
+RPS11,2,RPS11,148,,43,214,43,,148,10_3,148,43,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.68,NAGLGFKTPK-VSSPAGKSNK-a7-b7
+RPS11,2,RPS11,151,,141,266,141,,151,10_3,151,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.76,FNVLKVSSPAGK-SNKQFTKF-a5-b3
+RPS11,2,RPS11,151,,141,269,141,,151,10_3,151,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.21,FNVLKVSSPAGK-SNKQFTK-a5-b3
+RPS11,2,RPS11,155,,79,240,79,,155,10_3,155,79,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.81,GKILTGTVVSTKMHR-SNKQFTKF-a12-b7
+RPS11,2,RPS11,155,,141,270,141,,155,10_3,155,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.46,FNVLKVSSPAGK-SNKQFTKF-a5-b7
+RPS11,2,RPS11,155,,141,271,141,,155,10_3,155,141,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.26,FNVLKVSSPAGK-QFTKF-a5-b4
+RPS12,2,RPS10,52,,105,305,105,,52,10_3,52,105,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.17,QLGEWAGLGKIDR-ALQSLTSKGYVK-a10-b8
+RPS12,2,RPS31,113,,85,296,85,,113,10_3,36,85,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.75,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS13,2,RPS13,43,,39,322,39,,43,10_3,43,39,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.78,LSPDTVVEQIIKYAR-KGLTPSQIGVLLR-a12-b1
+RPS14,2,RPS1,11,,50,350,50,,11,10_3,11,50,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.1,VKADRDESSPYAAMLAAQDVAAK-LSKGK-a2-b3
+RPS14,2,RPS5,222,,50,349,50,,222,10_3,222,50,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.96,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS14,2,RPS7,75,,48,345,48,,76,10_3,75,48,0.205,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.59,VTGGMKVKADR-VQIKLTR-a6-b4
+RPS15,2,RPS15,13,,24,387,24,,13,10_3,13,24,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.16,GVDLEKMLEMPTEEFVK-TFKTYSYK-a6-b3
+RPS15,2,RPS15,13,,64,402,64,,13,10_3,13,64,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.87,AAKLAAPENEKPAVVR-TFKTYSYK-a3-b3
+RPS15,2,RPS15,13,,64,403,64,,13,10_3,13,64,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.93,LRAAKLAAPENEKPAVVR-TFKTYSYK-a5-b3
+RPS15,2,RPS15,13,,72,412,72,,13,10_3,13,72,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.67,LAAPENEKPAVVR-TFKTYSYK-a8-b3
+RPS15,2,RPS15,72,,108,419,108,,72,10_3,72,108,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.44,SFNQVEIKPEMVGHYLGEFSITYTPVR-LAAPENEKPAVVR-a8-b8
+RPS17,2,eIF3a,624,,81,476,81,,638,10_3,627,81,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.42,KDQYVPDVSALDLSHSK-MMEEKAAADAR-a1-b5
+RPS17,2,eIF3a,624,,81,477,81,,638,10_3,627,81,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.94,LQEEERERKDQYVPDVSALDLSHSK-MMEEKAAADAR-a9-b5
+RPS17,2,RPS0,116,,72,450,72,,116,10_3,116,72,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.55,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,451,72,,116,10_3,116,72,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.43,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,2,RPS0,116,,72,452,72,,116,10_3,116,72,0.14,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.25,GISFKLQEEERERK-SFKEPR-a5-b3
+RPS17,2,RPS17,14,,72,454,72,,14,10_3,14,72,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.49,GISFKLQEEERER-ASKALIER-a5-b3
+RPS17,2,RPS17,63,,59,441,59,,63,10_3,63,59,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.16,IAGYTTHLMKR-IQKGPVR-a10-b3
+RPS17,2,RPS17,63,,81,479,81,,63,10_3,63,81,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.67,LQEEERERKDQYVPDVSALDLSHSK-IQKGPVR-a9-b3
+RPS18,2,RPS15,13,,96,563,96,,13,10_3,13,96,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.84,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,2,RPS18,49,,80,517,80,,49,10_3,49,80,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.07,IVQIMQNPTQYKIPAWFLNR-KADVDLHKR-a12-b1
+RPS18,2,RPS18,49,,80,519,80,,49,10_3,49,80,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.03,IVQIMQNPTQYKIPAWFLNR-KADVDLHK-a12-b1
+RPS18,2,RPS18,56,,80,518,80,,56,10_3,56,80,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.37,IVQIMQNPTQYKIPAWFLNR-KADVDLHKR-a12-b8
+RPS19,2,RPS19,27,,110,591,110,,27,10_3,27,110,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.98,VLQALEKIGVVEISPK-QGKLEVPGYVDIVK-a7-b3
+RPS19,2,RPS19,69,,119,601,119,,69,10_3,69,119,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.28,IGVVEISPKGGRR-KQVGVGK-a9-b1
+RPS2,2,RPS16,132,,124,646,119,,133,10_3,132,124,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.33,TAKEVASAIR-FGGKGARSR-a3-b4
+RPS2,2,RPS2,51,,38,620,33,,46,10_3,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.44,ETEEKGWVPVTK-LVKAGK-a5-b3
+RPS2,2,RPS2,51,,38,621,33,,46,10_3,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.23,RETEEKGWVPVTK-LVKAGK-a6-b3
+RPS2,2,RPS2,51,,38,622,33,,46,10_3,51,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.17,GGRRETEEKGWVPVTK-LVKAGK-a9-b3
+RPS2,2,RPS3,148,,124,645,119,,148,10_3,148,124,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.42,TAKEVASAIR-AKSMK-a3-b2
+RPS2,2,RPS3,194,,38,615,33,,194,10_3,194,38,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.33,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,2,RPS3,194,,38,618,33,,194,10_3,194,38,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.19,ETEEKGWVPVTK-VKIMRDPSKNR-a5-b9
+RPS2,2,RPS30,53,,38,617,33,,53,10_3,53,38,0.162,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.53,ETEEKGWVPVTK-FVNVTLTNGKR-a5-b10
+RPS2,2,RPS30,53,,191,657,186,,53,10_3,53,191,0.128,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.5,KLMQLAGVEDVYTSSTGSTR-FVNVTLTNGKR-a1-b10
+RPS2,2,RPS30,55,,38,616,33,,55,10_3,55,38,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.44,ETEEKGWVPVTK-KMNPSPSSQ-a5-b1
+RPS2,2,RPS30,55,,82,641,77,,55,10_3,55,82,0.205,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.58,EFQIIDTLLPNLKDEVMNIKPVQK-KMNPSPSSQ-a13-b1
+RPS2,2,RPS30,55,,191,656,186,,55,10_3,55,191,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.35,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,2,eIF3j,246,,8,682,8,,244,10_3,249,8,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.24,EKVEQQEQPQIHK-AARPNLGGAFKK-a2-b11
+RPS20,2,RPS20,51,,19,709,21,,53,10_3,51,19,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.22,VEQQEQPQIHKIR-KGPVRLPTK-a11-b1
+RPS20,2,RPS20,51,,19,710,21,,53,10_3,51,19,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.08,EKVEQQEQPQIHKIR-KGPVRLPTK-a13-b1
+RPS20,2,RPS24,102,,8,681,8,,102,10_3,102,8,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.3,EKVEQQEQPQIHK-VEKASRQQRK-a2-b3
+RPS20,2,RPS3,45,,99,724,101,,45,10_3,45,99,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.48,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS21,2,RPS21,80,,38,735,38,,80,10_3,80,38,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.33,AKDHASVQINVAKVDEEGR-LAQNDGLLKNVWSYSR-a13-b9
+RPS22,2,RPS7,147,,36,742,36,,148,10_3,147,36,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.35,VIIKFLQVMQK-YLVGGNKVQK-a4-b7
+RPS24,2,RPS24,37,,43,766,43,,37,10_3,37,43,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.37,EKLSEIYKAEK-ANVSKDELR-a2-b5
+RPS24,2,RPS24,49,,21,759,21,,49,10_3,49,21,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.39,KQFVIDVLHPNR-LSEIYKAEK-a1-b6
+RPS24,2,RPS24,99,,83,780,83,,99,10_3,99,83,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.28,STGFGLVYNSVADAKK-YGLAEKVEK-a15-b6
+RPS24,2,RPS9,138,,68,773,68,,138,10_3,138,68,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.86,TQFGGGKSTGFGLVYNSVADAK-HIAVGKQIVNIPSFMVR-a7-b6
+RPS25,2,RPS25,52,,46,838,46,,52,10_3,52,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.73,AQHAVVLEQEKLDR-IYKEVPTYR-a11-b3
+RPS25,2,RPS25,52,,46,840,46,,52,10_3,52,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.37,DKAQHAVVLEQEKLDR-IYKEVPTYR-a13-b3
+RPS25,2,RPS25,70,,46,837,46,,70,10_3,70,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.07,DKAQHAVVLEQEKLDR-LKIGGSMAR-a13-b2
+RPS25,2,RPS25,70,,46,839,46,,70,10_3,70,46,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.18,AQHAVVLEQEKLDR-LKIGGSMAR-a11-b2
+RPS25,2,RPS25,70,,52,868,52,,70,10_3,70,52,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.26,IYKEVPTYR-LKIGGSMAR-a3-b2
+RPS25,2,RPS5,214,,21,813,21,,214,10_3,214,21,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.27,AAAALAGGKK-KKDELER-a9-b2
+RPS25,2,RPS8,137,,46,835,46,,135,10_3,137,46,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.89,AQHAVVLEQEKLDRIYK-GAEEETVAKSRNAERK-a11-b9
+RPS25,2,RPS9,51,,12,804,12,,51,10_3,51,12,0.105,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,2,RPS1,109,,66,890,66,,109,10_3,109,66,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.36,DLSEASVYAEYALPKTYNK-NLLTNFHGLDFTTDKLR-a15-b15
+RPS26,2,RPS28,14,,116,901,116,,14,10_3,14,116,0.205,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.39,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,2,eIF3c,76,,45,913,45,,82,10_3,79,45,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.45,VTPTKTEVIIR-KGGASSGANR-a5-b1
+RPS3,2,eIF3g,198,,132,960,132,,191,10_3,200,132,0.226,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.28,YVMESGAKGCEVVISGK-ERDDAKTLK-a8-b6
+RPS3,2,RACK1,130,,212,990,212,,129,10_3,130,212,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.73,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,2,RPS15,52,,148,965,148,,52,10_3,52,148,0.205,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.61,AARAKSMKFADGFLIHSGQPVNDFIDTATR-GLSSKPAGLMKK-a5-b5
+RPS3,2,RPS2,38,,207,975,207,,33,10_3,38,207,0.14,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.11,ALPDAVKILEPKDEEPISEPSVK-ETEEKGWVPVTK-a7-b5
+RPS3,2,RPS3,194,,207,976,207,,194,10_3,194,207,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.66,ALPDAVKILEPKDEEPISEPSVK-IMRDPSKNR-a7-b7
+RPS3,2,RPS30,55,,106,922,106,,55,10_3,55,106,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.72,GLSAVAQAESLKFKLLNGLAIR-KMNPSPSSQ-a12-b1
+RPS3,2,RPS30,55,,108,940,108,,55,10_3,55,108,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.67,GLSAVAQAESLKFKLLNGLAIRR-KMNPSPSSQ-a14-b1
+RPS3,2,RPS30,55,,108,941,108,,55,10_3,55,108,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.32,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS3,2,RPS30,55,,108,942,108,,55,10_3,55,108,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.06,FKLLNGLAIRR-KMNPSPSSQ-a2-b1
+RPS3,2,RPS30,55,,108,943,108,,55,10_3,55,108,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.76,GLSAVAQAESLKFKLLNGLAIR-KMNPSPSSQ-a14-b1
+RPS30,2,RPS3,108,,53,1027,53,,108,10_3,108,53,0.14,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,33.25,FVNVTLTNGKR-FKLLNGLAIR-a10-b2
+RPS30,2,RPS30,55,,23,1004,23,,55,10_3,55,23,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.88,VEKQEKPKQPK-KMNPSPSSQ-a3-b1
+RPS31,2,RPS13,109,,107,1042,107,,109,10_3,109,30,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.45,LAVLNYFKVDAEGK-DKDAK-a8-b2
+RPS4,2,RPS30,13,,211,1126,211,,13,10_3,13,211,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.68,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,2,RPS4,242,,211,1130,211,,242,10_3,242,211,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.84,HEGGFDLVHIKDSLDNTFVTR-GKGIK-a11-b2
+RPS4,2,RPS4,242,,211,1131,211,,242,10_3,242,211,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.82,ERHEGGFDLVHIKDSLDNTFVTR-GKGIK-a13-b2
+RPS4,2,RPS6,196,,168,1083,168,,196,10_3,196,168,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.28,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,196,,168,1084,168,,196,10_3,196,168,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.82,IDLASGKITDYIKFDTGK-VKNAQAQR-a7-b2
+RPS4,2,RPS6,223,,155,1057,155,,223,10_3,223,155,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,45.38,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,2,RPS6,223,,161,1068,161,,223,10_3,223,161,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,42.36,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,174,1095,174,,223,10_3,223,174,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.08,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,2,RPS6,223,,179,1106,179,,223,10_3,223,179,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,45.56,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,2,RPS6,223,,179,1107,179,,223,10_3,223,179,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.38,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,2,RPS6,235,,161,1069,161,,235,10_3,235,161,0.037,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,37.37,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,2,RPS6,235,,161,1070,161,,235,10_3,235,161,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.08,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,2,RPS6,235,,179,1108,179,,235,10_3,235,179,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.34,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,2,RPS6,235,,179,1109,179,,235,10_3,235,179,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.73,ITDYIKFDTGKLVYVTGGR-ASSLKA-a11-b5
+RPS5,2,RPS25,90,,45,1147,45,,90,10_3,90,45,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.68,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS5,2,RPS25,90,,45,1148,45,,90,10_3,90,45,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.88,LFNKWSFEDVQVKDASLVDYVQIR-DGIIKPVSK-a4-b5
+RPS6,2,RPS6,223,,214,1223,214,,223,10_3,223,214,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.17,EASAEYAQLLAKR-NAEKAEAR-a12-b4
+RPS7,2,RPS7,75,,82,1278,83,,76,10_3,75,82,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,43.86,ELEKKFPDR-VQIKLTR-a4-b4
+RPS7,2,RPS7,75,,83,1286,84,,76,10_3,75,83,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.61,ELEKKFPDR-VQIKLTR-a5-b4
+RPS7,2,RPS7,147,,137,1295,138,,148,10_3,147,137,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.7,VLEDLVFPTEIVGKR-YLVGGNKVQK-a14-b7
+RPS7,2,RPS7,174,,55,1262,56,,175,10_3,174,55,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.98,KAIAIFVPVPSLSAYHK-LESFQAVYNKLTGK-a1-b10
+RPS8,2,RPS11,26,,153,1356,155,,26,10_3,26,153,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,50.26,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,2,RPS11,26,,153,1358,155,,26,10_3,26,153,0.149,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.93,SADAKIEHAVESQFGAGR-AKANRR-a5-b2
+RPS8,2,RPS6,187,,153,1357,155,,187,10_3,187,153,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.88,SADAKIEHAVESQFGAGR-KRQQR-a5-b1
+RPS8,2,RPS8,125,,153,1362,155,,125,10_3,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,49.13,SADAKIEHAVESQFGAGR-KKNVK-a5-b2
+RPS8,2,RPS8,125,,153,1363,155,,125,10_3,125,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,44.72,SADAKIEHAVESQFGAGR-KNVKGAEEETVAK-a5-b1
+RPS8,2,RPS8,128,,153,1361,155,,128,10_3,128,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,51.54,SADAKIEHAVESQFGAGR-KNVKGAEEETVAK-a5-b4
+RPS8,2,RPS8,128,,153,1365,155,,128,10_3,128,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.11,SADAKIEHAVESQFGAGR-NVKGAEEETVAK-a5-b3
+RPS8,2,RPS8,144,,153,1364,155,,142,10_3,144,153,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.16,SADAKIEHAVESQFGAGR-KWAAR-a5-b1
+RPS8,2,RPS8,153,,123,1319,123,,151,10_3,153,123,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.4,AAIVQIDATPFKQWYEAHYGQALGKK-SADAKIEHAVESQFGAGR-a25-b5
+RPS9,2,eIF3a,192,,138,1489,138,,192,10_3,195,138,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.62,HIAVGKQIVNIPSFMVR-TMLFCLKYNR-a6-b7
+RPS9,2,eIF3b,447,,115,1464,115,,447,10_3,449,115,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.38,LQTQVYKLGLAK-VEMKDR-a7-b4
+RPS9,2,eIF3b,447,,115,1465,115,,447,10_3,449,115,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.21,RLQTQVYKLGLAK-VEMKDR-a8-b4
+RPS9,2,eIF3b,498,,90,1425,90,,497,10_3,500,90,0.057,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.87,IGVLSEDKKK-SNQGKEDLKK-a8-b5
+RPS9,2,eIF3b,498,,91,1438,91,,497,10_3,500,91,0.19,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,29.6,IGVLSEDKKKLDYVLALK-SNQGKEDLKK-a9-b5
+RPS9,2,eIF3b,498,,154,1498,154,,497,10_3,500,154,0,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,40.61,LESEKHIDFAR-SNQGKEDLKK-a5-b5
+RPS9,2,eIF3j,51,,179,1529,179,,51,10_3,54,179,0.083,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,34.13,RNNNKGSEAAEAEDEE-AKPAAK-a5-b2
+RPS9,2,eIF3j,231,,179,1530,179,,230,10_3,234,179,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.12,RNNNKGSEAAEAEDEE-GGTATGGAGKKK-a5-b10
+RPS9,2,RPS3,148,,179,1531,179,,148,10_3,148,179,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.57,VARRNNNKGSEAAEAEDEE-AARAKSMK-a8-b5
+RPS9,2,RPS30,55,,29,1400,29,,55,10_3,55,29,0.141,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,31.39,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS9,2,RPS30,55,,115,1466,115,,55,10_3,55,115,0.171,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.49,LQTQVYKLGLAK-KMNPSPSSQ-a7-b1
+RPS9,2,RPS30,55,,120,1485,120,,55,10_3,55,120,0.239,L.kluyveri,Interlink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,28.02,LGLAKSVHHAR-KMNPSPSSQ-a5-b1
+RPS9,2,RPS9,92,,65,1414,65,,92,10_3,92,65,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,39.93,DLLTRDEKDPKR-KLDYVLALK-a8-b1
+RPS9,2,RPS9,120,,179,1536,179,,120,10_3,120,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,41.89,RNNNKGSEAAEAEDEE-LGLAKSVHHAR-a5-b5
+RPS9,2,RPS9,120,,179,1538,179,,120,10_3,120,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,35.52,NNNKGSEAAEAEDEE-LGLAKSVHHAR-a4-b5
+RPS9,2,RPS9,154,,115,1468,115,,154,10_3,154,115,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.15,RLQTQVYKLGLAK-LESEKHIDFAR-a8-b5
+RPS9,2,RPS9,154,,115,1469,115,,154,10_3,154,115,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,30.14,LQTQVYKLGLAK-LESEKHIDFAR-a7-b5
+RPS9,2,RPS9,154,,138,1490,138,,154,10_3,154,138,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,38.88,HIAVGKQIVNIPSFMVR-LESEKHIDFAR-a6-b5
+RPS9,2,RPS9,154,,179,1537,179,,154,10_3,154,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,36.85,RNNNKGSEAAEAEDEE-LESEKHIDFAR-a5-b5
+RPS9,2,RPS9,154,,179,1539,179,,154,10_3,154,179,0,L.kluyveri,Intralink,40S/eIF1/6-core(a1b1c0i1gij1) - TOP monomer sample,2,32.88,NNNKGSEAAEAEDEE-LESEKHIDFAR-a4-b5
+RPS0,,RPS17,81,,88,6571,88,,81,7_1,81,88,0.101,L.kluyveri/D.hansenii,Interlink,,,32.67,AVLKFSAHTGATAIAGR-KDQYVPDVSALDLSHSK-a4-b1
+RPS10,,RPS14,3,,52,6599,52,,3,7_1,3,52,0.167,L.kluyveri/D.hansenii,Interlink,,,30.68,ALQSLTSKGYVK-MAKDLVQAR-a8-b3
+RPS10,,RPS29,16,,24,6540,24,,16,7_1,16,24,0.068,L.kluyveri/D.hansenii,Interlink,,,36.17,HLFQEGVVVAKK-NYGKGSR-a11-b4
+RPS11,,RPS6,235,,43,6580,43,,235,7_1,235,43,0.108,L.kluyveri/D.hansenii,Interlink,,,32.2,NAGLGFKTPK-ASSLKA-a7-b5
+RPS11,,RPS6,235,,141,6547,141,,235,7_1,235,141,0.068,L.kluyveri/D.hansenii,Interlink,,,35.4,FNVLKVSSPAGK-ASSLKA-a5-b5
+RPS11,,RPS7,111,,141,6573,141,,112,7_1,111,141,0.101,L.kluyveri/D.hansenii,Interlink,,,32.59,FNVLKVSSPAGK-SRQTQKRPR-a5-b6
+RPS11,,RPS7,111,,141,6625,141,,112,7_1,111,141,0.22,L.kluyveri/D.hansenii,Interlink,,,28.7,FNVLKVSSPAGK-QTQKRPR-a5-b4
+RPS12,,RPS31,113,,85,6506,85,,113,7_1,36,85,0,L.kluyveri/D.hansenii,Interlink,,,41.97,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS14,,RPS5,222,,50,6505,50,,222,7_1,222,50,0,L.kluyveri/D.hansenii,Interlink,,,42.02,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS15,,RPS18,139,,72,6612,72,,139,7_1,139,72,0.2,L.kluyveri/D.hansenii,Interlink,,,29.94,LAAPENEKPAVVR-GQHTKTTGR-a8-b5
+RPS15,,RPS18,139,,72,6628,72,,139,7_1,139,72,0.22,L.kluyveri/D.hansenii,Interlink,,,28.59,LAAPENEKPAVVR-GQHTKTTGRR-a8-b5
+RPS17,,RACK1,130,,23,6604,23,,129,7_1,130,23,0.17,L.kluyveri/D.hansenii,Interlink,,,30.26,YYPKLTLDFQTNKR-DKTVK-a4-b2
+RPS17,,RPS0,116,,14,6511,14,,116,7_1,116,14,0,L.kluyveri/D.hansenii,Interlink,,,41.72,ASKALIER-SFKEPR-a3-b3
+RPS17,,RPS0,116,,72,6515,72,,116,7_1,116,72,0,L.kluyveri/D.hansenii,Interlink,,,40.43,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,,RPS0,116,,72,6537,72,,116,7_1,116,72,0.068,L.kluyveri/D.hansenii,Interlink,,,36.49,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,,RPS14,73,,44,6590,44,,73,7_1,73,44,0.152,L.kluyveri/D.hansenii,Interlink,,,31.13,LCDEIATIQSKRLR-CKEVGITAVHVK-a11-b2
+RPS17,,RPS4,245,,81,6622,81,,245,7_1,245,81,0.22,L.kluyveri/D.hansenii,Interlink,,,28.86,ERKDQYVPDVSALDLSHSK-GIKLSIAEERDR-a3-b3
+RPS18,,RPS15,13,,96,6566,96,,13,7_1,13,96,0.097,L.kluyveri/D.hansenii,Interlink,,,33.14,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS2,,RPS24,37,,38,6557,33,,37,7_1,37,38,0.068,L.kluyveri/D.hansenii,Interlink,,,34.03,ETEEKGWVPVTK-ANVSKDELREK-a5-b5
+RPS2,,RPS3,148,,124,6524,119,,148,7_1,148,124,0.029,L.kluyveri/D.hansenii,Interlink,,,38.68,TAKEVASAIR-AKSMK-a3-b2
+RPS2,,RPS3,194,,38,6525,33,,194,7_1,194,38,0.029,L.kluyveri/D.hansenii,Interlink,,,38.4,ETEEKGWVPVTK-DPSKNR-a5-b4
+RPS2,,RPS3,194,,38,6532,33,,194,7_1,194,38,0.029,L.kluyveri/D.hansenii,Interlink,,,37.25,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,,RPS30,53,,191,6577,186,,53,7_1,53,191,0.101,L.kluyveri/D.hansenii,Interlink,,,32.34,GSGIVASPAVKK-FVNVTLTNGKR-a11-b10
+RPS2,,RPS30,55,,191,6593,186,,55,7_1,55,191,0.167,L.kluyveri/D.hansenii,Interlink,,,30.94,GSGIVASPAVKK-KMNPSPSSQ-a11-b1
+RPS2,,RPS30,55,,192,6554,187,,55,7_1,55,192,0.068,L.kluyveri/D.hansenii,Interlink,,,34.45,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,,RPS3,45,,99,6584,101,,45,7_1,45,99,0.126,L.kluyveri/D.hansenii,Interlink,,,31.47,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS22,,RPS7,148,,32,6565,32,,149,7_1,148,32,0.097,L.kluyveri/D.hansenii,Interlink,,,33.2,QVLIRPSSKVIIK-YLVGGNKVQK-a9-b7
+RPS23,,RPS5,109,,56,6514,56,,109,7_1,109,56,0,L.kluyveri/D.hansenii,Interlink,,,40.48,GIVLEKIGIESK-LKAVR-a6-b2
+RPS23,,RPS9,37,,56,6541,56,,37,7_1,37,56,0.068,L.kluyveri/D.hansenii,Interlink,,,36.16,GIVLEKIGIESK-LAGEYGLKNK-a6-b8
+RPS24,,RPS4,53,,11,6539,11,,53,7_1,53,11,0.068,L.kluyveri/D.hansenii,Interlink,,,36.25,KVISNPLLAR-LKYALNGR-a1-b2
+RPS24,,RPS6,164,,123,6600,123,,164,7_1,164,123,0.167,L.kluyveri/D.hansenii,Interlink,,,30.54,KVFGTGKR-EVTKGEK-a7-b4
+RPS25,,RPS9,51,,12,6596,12,,51,7_1,51,12,0.167,L.kluyveri/D.hansenii,Interlink,,,30.84,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,,RPS28,14,,116,6594,116,,14,7_1,14,116,0.167,L.kluyveri/D.hansenii,Interlink,,,30.89,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,,RACK1,130,,212,6598,212,,129,7_1,130,212,0.167,L.kluyveri/D.hansenii,Interlink,,,30.7,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,,RPS30,55,,108,6559,108,,55,7_1,55,108,0.081,L.kluyveri/D.hansenii,Interlink,,,33.72,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS30,,RPS23,142,,20,6588,20,,142,7_1,142,20,0.143,L.kluyveri/D.hansenii,Interlink,,,31.28,SQTPKVEK-KEKPRS-a5-b3
+RPS4,,RPS24,84,,71,6602,71,,84,7_1,84,71,0.17,L.kluyveri/D.hansenii,Interlink,,,30.37,HVKVDGK-KFEPTYR-a3-b1
+RPS4,,RPS30,13,,211,6567,211,,13,7_1,13,211,0.097,L.kluyveri/D.hansenii,Interlink,,,33.08,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,,RPS6,194,,134,6516,134,,194,7_1,194,134,0,L.kluyveri/D.hansenii,Interlink,,,40.27,KGVPFVVTHDGR-ALKVK-a1-b3
+RPS4,,RPS6,196,,75,6545,75,,196,7_1,196,75,0.068,L.kluyveri/D.hansenii,Interlink,,,35.55,HVKVDGKVR-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,168,6508,168,,196,7_1,196,168,0,L.kluyveri/D.hansenii,Interlink,,,41.81,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,,RPS6,223,,155,6499,155,,223,7_1,223,155,0,L.kluyveri/D.hansenii,Interlink,,,48.36,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,,RPS6,223,,161,6504,161,,223,7_1,223,161,0,L.kluyveri/D.hansenii,Interlink,,,44.75,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6502,174,,223,7_1,223,174,0,L.kluyveri/D.hansenii,Interlink,,,45.29,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6542,174,,223,7_1,223,174,0.068,L.kluyveri/D.hansenii,Interlink,,,36.01,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,179,6507,179,,223,7_1,223,179,0,L.kluyveri/D.hansenii,Interlink,,,41.95,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,,RPS6,223,,179,6517,179,,223,7_1,223,179,0,L.kluyveri/D.hansenii,Interlink,,,40.1,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,,RPS6,235,,161,6528,161,,235,7_1,235,161,0.029,L.kluyveri/D.hansenii,Interlink,,,37.43,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,,RPS6,235,,161,6576,161,,235,7_1,235,161,0.101,L.kluyveri/D.hansenii,Interlink,,,32.36,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,,RPS6,235,,179,6561,179,,235,7_1,235,179,0.097,L.kluyveri/D.hansenii,Interlink,,,33.48,FDTGKLVYVTGGR-RASSLKA-a5-b6
+RPS4,,RPS6,235,,179,6592,179,,235,7_1,235,179,0.16,L.kluyveri/D.hansenii,Interlink,,,31.06,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,,RPS9,68,,106,6595,106,,68,7_1,68,106,0.167,L.kluyveri/D.hansenii,Interlink,,,30.88,LVYDVKGR-DEKDPKR-a6-b6
+RPS5,,RPS1,45,,45,6619,45,,45,7_1,45,45,0.213,L.kluyveri/D.hansenii,Interlink,,,29.08,LFNKWSFEDVQVK-NVGKTLVNK-a4-b4
+RPS5,,RPS25,90,,45,6509,45,,90,7_1,90,45,0,L.kluyveri/D.hansenii,Interlink,,,41.78,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,,RPS4,168,,214,6518,214,,168,7_1,168,214,0,L.kluyveri/D.hansenii,Interlink,,,40,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS6,,RPS4,242,,235,6589,235,,242,7_1,242,235,0.143,L.kluyveri/D.hansenii,Interlink,,,31.22,RASSLKA-GKGIK-a6-b2
+RPS8,,RPS11,26,,153,6501,155,,26,7_1,26,153,0,L.kluyveri/D.hansenii,Interlink,,,46.1,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,,RPS19,68,,153,6536,155,,68,7_1,68,153,0.053,L.kluyveri/D.hansenii,Interlink,,,36.66,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS9,,RPS22,119,,65,6503,65,,119,7_1,119,65,0,L.kluyveri/D.hansenii,Interlink,,,44.95,DEKDPKR-KHVSGK-a3-b1
+RPS9,,RPS22,119,,65,6556,65,,119,7_1,119,65,0.068,L.kluyveri/D.hansenii,Interlink,,,34.04,DLLTRDEKDPK-RKHVSGK-a8-b2
+RPS9,,RPS30,55,,115,6560,115,,55,7_1,55,115,0.081,L.kluyveri/D.hansenii,Interlink,,,33.66,LQTQVYKLGLAK-KMNPSPSSQ-a7-b1
+RPS0,,RPS17,81,,88,6688,88,,81,7_2,81,88,0.074,L.kluyveri/D.hansenii,Interlink,,,35.03,AVLKFSAHTGATAIAGR-KDQYVPDVSALDLSHSK-a4-b1
+RPS10,,RPS14,3,,52,6703,52,,3,7_2,3,52,0.119,L.kluyveri/D.hansenii,Interlink,,,33.07,ALQSLTSKGYVK-MAKDLVQAR-a8-b3
+RPS10,,RPS8,17,,5,6742,5,,17,7_2,17,5,0.135,L.kluyveri/D.hansenii,Interlink,,,29.64,MLIPKEER-AATGAKR-a5-b6
+RPS11,,RPS6,235,,43,6660,43,,235,7_2,235,43,0,L.kluyveri/D.hansenii,Interlink,,,38.52,NAGLGFKTPK-ASSLKA-a7-b5
+RPS11,,RPS6,235,,141,6690,141,,235,7_2,235,141,0.074,L.kluyveri/D.hansenii,Interlink,,,34.98,FNVLKVSSPAGK-ASSLKA-a5-b5
+RPS11,,RPS7,111,,141,6712,141,,112,7_2,111,141,0.119,L.kluyveri/D.hansenii,Interlink,,,32.42,FNVLKVSSPAGK-SRQTQKRPR-a5-b6
+RPS12,,RPS31,113,,85,6681,85,,113,7_2,36,85,0.022,L.kluyveri/D.hansenii,Interlink,,,35.63,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS14,,RPS1,11,,50,6682,50,,11,7_2,11,50,0.022,L.kluyveri/D.hansenii,Interlink,,,35.57,VKADRDESSPYAAMLAAQDVAAK-LSKGK-a2-b3
+RPS14,,RPS5,222,,50,6647,50,,222,7_2,222,50,0,L.kluyveri/D.hansenii,Interlink,,,41.34,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS17,,RPS0,116,,14,6671,14,,116,7_2,116,14,0.022,L.kluyveri/D.hansenii,Interlink,,,36.74,ASKALIER-SFKEPR-a3-b3
+RPS17,,RPS0,116,,72,6638,72,,116,7_2,116,72,0,L.kluyveri/D.hansenii,Interlink,,,47.49,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,,RPS0,116,,72,6649,72,,116,7_2,116,72,0,L.kluyveri/D.hansenii,Interlink,,,40.82,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,,RPS20,99,,81,6764,81,,101,7_2,99,81,0.197,L.kluyveri/D.hansenii,Interlink,,,28.13,KDQYVPDVSALDLSHSK-RYIDLQAPAQIVKR-a1-b13
+RPS18,,RPS15,13,,96,6749,96,,13,7_2,13,96,0.149,L.kluyveri/D.hansenii,Interlink,,,29.17,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,,RPS6,30,,80,6726,80,,30,7_2,30,80,0.119,L.kluyveri/D.hansenii,Interlink,,,31.34,IVQIMQNPTQYKIPAWFLNR-VRVFYDKR-a12-b7
+RPS2,,RPS24,37,,38,6734,33,,37,7_2,37,38,0.119,L.kluyveri/D.hansenii,Interlink,,,30.53,ETEEKGWVPVTK-ANVSKDELREK-a5-b5
+RPS2,,RPS3,148,,124,6679,119,,148,7_2,148,124,0.022,L.kluyveri/D.hansenii,Interlink,,,36.06,TAKEVASAIR-AKSMK-a3-b2
+RPS2,,RPS3,194,,38,6669,33,,194,7_2,194,38,0,L.kluyveri/D.hansenii,Interlink,,,37,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,,RPS3,194,,38,6745,33,,194,7_2,194,38,0.135,L.kluyveri/D.hansenii,Interlink,,,29.46,ETEEKGWVPVTK-DPSKNR-a5-b4
+RPS2,,RPS30,55,,192,6652,187,,55,7_2,55,192,0,L.kluyveri/D.hansenii,Interlink,,,40.09,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,,RPS3,45,,99,6691,101,,45,7_2,45,99,0.074,L.kluyveri/D.hansenii,Interlink,,,34.87,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS22,,RPS7,148,,36,6661,36,,149,7_2,148,36,0,L.kluyveri/D.hansenii,Interlink,,,38.44,VIIKFLQVMQK-YLVGGNKVQK-a4-b7
+RPS23,,RPS9,37,,56,6753,56,,37,7_2,37,56,0.197,L.kluyveri/D.hansenii,Interlink,,,28.78,GIVLEKIGIESK-LAGEYGLKNK-a6-b8
+RPS25,,RPS9,51,,12,6737,12,,51,7_2,51,12,0.119,L.kluyveri/D.hansenii,Interlink,,,30.35,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,,RPS28,14,,116,6711,116,,14,7_2,14,116,0.119,L.kluyveri/D.hansenii,Interlink,,,32.46,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,,RACK1,130,,212,6759,212,,129,7_2,130,212,0.197,L.kluyveri/D.hansenii,Interlink,,,28.31,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,,RPS17,23,,212,6740,212,,23,7_2,23,212,0.135,L.kluyveri/D.hansenii,Interlink,,,29.82,ILEPKDEEPISEPSVK-YYPKLTLDFQTNKR-a5-b4
+RPS3,,RPS30,55,,108,6694,108,,55,7_2,55,108,0.083,L.kluyveri/D.hansenii,Interlink,,,34.2,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS4,,RPS24,84,,71,6695,71,,84,7_2,84,71,0.083,L.kluyveri/D.hansenii,Interlink,,,34.17,HVKVDGK-KFEPTYR-a3-b1
+RPS4,,RPS30,13,,211,6662,211,,13,7_2,13,211,0,L.kluyveri/D.hansenii,Interlink,,,38.17,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,,RPS30,13,,211,6728,211,,13,7_2,13,211,0.119,L.kluyveri/D.hansenii,Interlink,,,31.2,ERHEGGFDLVHIKDSLDNTFVTR-AGKVK-a13-b3
+RPS4,,RPS6,196,,168,6645,168,,196,7_2,196,168,0,L.kluyveri/D.hansenii,Interlink,,,43.13,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,168,6651,168,,196,7_2,196,168,0,L.kluyveri/D.hansenii,Interlink,,,40.1,IDLASGKITDYIKFDTGK-VKNAQAQR-a7-b2
+RPS4,,RPS6,223,,155,6683,155,,223,7_2,223,155,0.043,L.kluyveri/D.hansenii,Interlink,,,35.47,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,,RPS6,223,,161,6714,161,,223,7_2,223,161,0.119,L.kluyveri/D.hansenii,Interlink,,,32.25,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6646,174,,223,7_2,223,174,0,L.kluyveri/D.hansenii,Interlink,,,41.99,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,179,6642,179,,223,7_2,223,179,0,L.kluyveri/D.hansenii,Interlink,,,44.8,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,,RPS6,223,,179,6659,179,,223,7_2,223,179,0,L.kluyveri/D.hansenii,Interlink,,,38.74,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,,RPS6,235,,161,6673,161,,235,7_2,235,161,0.022,L.kluyveri/D.hansenii,Interlink,,,36.61,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,,RPS6,235,,161,6722,161,,235,7_2,235,161,0.119,L.kluyveri/D.hansenii,Interlink,,,31.63,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,,RPS6,235,,179,6715,179,,235,7_2,235,179,0.119,L.kluyveri/D.hansenii,Interlink,,,32.14,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,,RPS6,235,,179,6747,179,,235,7_2,235,179,0.135,L.kluyveri/D.hansenii,Interlink,,,29.35,ITDYIKFDTGKLVYVTGGR-ASSLKA-a11-b5
+RPS5,,RPS25,30,,213,6677,213,,30,7_2,30,213,0.022,L.kluyveri/D.hansenii,Interlink,,,36.08,KKDELER-KSHKDK-a1-b1
+RPS5,,RPS25,30,,214,6653,214,,30,7_2,30,214,0,L.kluyveri/D.hansenii,Interlink,,,40.02,KKDELER-KSHKDK-a2-b1
+RPS5,,RPS25,90,,45,6640,45,,90,7_2,90,45,0,L.kluyveri/D.hansenii,Interlink,,,45.21,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,,RPS4,168,,214,6663,214,,168,7_2,168,214,0,L.kluyveri/D.hansenii,Interlink,,,38.17,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS8,,RPS11,26,,128,6752,128,,26,7_2,26,128,0.174,L.kluyveri/D.hansenii,Interlink,,,28.99,NVKGAEEETVAK-AKANRR-a3-b2
+RPS8,,RPS11,26,,137,6706,139,,26,7_2,26,137,0.119,L.kluyveri/D.hansenii,Interlink,,,32.94,GAEEETVAKSR-AKANRR-a9-b2
+RPS8,,RPS11,26,,153,6639,155,,26,7_2,26,153,0,L.kluyveri/D.hansenii,Interlink,,,45.55,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,,RPS19,68,,153,6716,155,,68,7_2,68,153,0.119,L.kluyveri/D.hansenii,Interlink,,,32.04,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS8,,RPS28,14,,153,6701,155,,14,7_2,14,153,0.119,L.kluyveri/D.hansenii,Interlink,,,33.12,SADAKIEHAVESQFGAGR-VIKVLGR-a5-b3
+RPS9,,RPS22,119,,65,6698,65,,119,7_2,119,65,0.098,L.kluyveri/D.hansenii,Interlink,,,33.61,DLLTRDEKDPK-RKHVSGK-a8-b2
+RPS9,,RPS30,55,,29,6758,29,,55,7_2,55,29,0.197,L.kluyveri/D.hansenii,Interlink,,,28.33,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS0,,RPS17,81,,88,6790,88,,81,7_3,81,88,0.024,L.kluyveri/D.hansenii,Interlink,,,38.11,AVLKFSAHTGATAIAGR-KDQYVPDVSALDLSHSK-a4-b1
+RPS10,,RPS29,16,,24,6821,24,,16,7_3,16,24,0.083,L.kluyveri/D.hansenii,Interlink,,,32.7,HLFQEGVVVAKK-NYGKGSR-a11-b4
+RPS11,,RPS6,235,,43,6811,43,,235,7_3,235,43,0.064,L.kluyveri/D.hansenii,Interlink,,,34.05,NAGLGFKTPK-ASSLKA-a7-b5
+RPS11,,RPS6,235,,141,6825,141,,235,7_3,235,141,0.113,L.kluyveri/D.hansenii,Interlink,,,32.44,FNVLKVSSPAGK-ASSLKA-a5-b5
+RPS11,,RPS7,111,,141,6823,141,,112,7_3,111,141,0.083,L.kluyveri/D.hansenii,Interlink,,,32.6,FNVLKVSSPAGK-QTQKRPRSR-a5-b4
+RPS12,,RPS31,113,,85,6771,85,,113,7_3,36,85,0,L.kluyveri/D.hansenii,Interlink,,,43.7,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS14,,RPS5,222,,48,6853,48,,222,7_3,222,48,0.255,L.kluyveri/D.hansenii,Interlink,,,28.93,VTGGMKVK-VAKSNR-a6-b3
+RPS14,,RPS5,222,,50,6773,50,,222,7_3,222,50,0,L.kluyveri/D.hansenii,Interlink,,,42.62,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS17,,RPS0,116,,14,6791,14,,116,7_3,116,14,0.024,L.kluyveri/D.hansenii,Interlink,,,38.01,ASKALIER-SFKEPR-a3-b3
+RPS17,,RPS0,116,,72,6767,72,,116,7_3,116,72,0,L.kluyveri/D.hansenii,Interlink,,,46,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,,RPS0,116,,72,6783,72,,116,7_3,116,72,0.024,L.kluyveri/D.hansenii,Interlink,,,39.94,GISFKLQEEERER-SFKEPR-a5-b3
+RPS18,,RPS15,13,,96,6839,96,,13,7_3,13,96,0.212,L.kluyveri/D.hansenii,Interlink,,,30.86,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS2,,RPS21,25,,167,6804,163,,25,7_3,25,167,0.024,L.kluyveri/D.hansenii,Interlink,,,35.39,TSGKSGSVTVR-IIKAK-a4-b3
+RPS2,,RPS24,37,,38,6814,33,,37,7_3,37,38,0.083,L.kluyveri/D.hansenii,Interlink,,,33.55,ETEEKGWVPVTK-ANVSKDELREK-a5-b5
+RPS2,,RPS3,148,,124,6785,119,,148,7_3,148,124,0.024,L.kluyveri/D.hansenii,Interlink,,,39.37,TAKEVASAIR-AKSMK-a3-b2
+RPS2,,RPS3,194,,38,6788,33,,194,7_3,194,38,0.024,L.kluyveri/D.hansenii,Interlink,,,38.53,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,,RPS3,194,,38,6815,33,,194,7_3,194,38,0.083,L.kluyveri/D.hansenii,Interlink,,,33.28,ETEEKGWVPVTK-DPSKNR-a5-b4
+RPS2,,RPS30,53,,191,6842,186,,53,7_3,53,191,0.212,L.kluyveri/D.hansenii,Interlink,,,30.69,GSGIVASPAVKK-FVNVTLTNGKR-a11-b10
+RPS2,,RPS30,55,,192,6780,187,,55,7_3,55,192,0,L.kluyveri/D.hansenii,Interlink,,,40.31,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,,RPS3,45,,99,6829,101,,45,7_3,45,99,0.121,L.kluyveri/D.hansenii,Interlink,,,32.01,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS22,,RPS7,148,,36,6774,36,,149,7_3,148,36,0,L.kluyveri/D.hansenii,Interlink,,,42.48,VIIKFLQVMQK-YLVGGNKVQK-a4-b7
+RPS25,,RPS3,148,,52,6859,52,,148,7_3,148,52,0.263,L.kluyveri/D.hansenii,Interlink,,,28.1,LDRIYKEVPTYR-AKSMK-a6-b2
+RPS25,,RPS5,214,,21,6836,21,,214,7_3,214,21,0.212,L.kluyveri/D.hansenii,Interlink,,,31.06,AAAALAGGKK-KKDELER-a9-b2
+RPS25,,RPS9,51,,12,6820,12,,51,7_3,51,12,0.083,L.kluyveri/D.hansenii,Interlink,,,32.77,AAKAAAALAGGK-ISFQLSKIR-a3-b7
+RPS26,,RPS28,14,,116,6819,116,,14,7_3,14,116,0.083,L.kluyveri/D.hansenii,Interlink,,,32.79,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,,RACK1,130,,212,6832,212,,129,7_3,130,212,0.159,L.kluyveri/D.hansenii,Interlink,,,31.62,ILEPKDEEPISEPSVK-DKTVK-a5-b2
+RPS3,,RPS17,23,,212,6858,212,,23,7_3,23,212,0.255,L.kluyveri/D.hansenii,Interlink,,,28.54,ILEPKDEEPISEPSVK-YYPKLTLDFQTNKR-a5-b4
+RPS3,,RPS30,55,,108,6826,108,,55,7_3,55,108,0.113,L.kluyveri/D.hansenii,Interlink,,,32.38,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS4,,RPS24,84,,71,6810,71,,84,7_3,84,71,0.064,L.kluyveri/D.hansenii,Interlink,,,34.08,HVKVDGK-KFEPTYR-a3-b1
+RPS4,,RPS30,13,,211,6838,211,,13,7_3,13,211,0.212,L.kluyveri/D.hansenii,Interlink,,,30.9,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,,RPS30,13,,211,6851,211,,13,7_3,13,211,0.255,L.kluyveri/D.hansenii,Interlink,,,29.02,ERHEGGFDLVHIKDSLDNTFVTR-AGKVK-a13-b3
+RPS4,,RPS6,196,,71,6831,71,,196,7_3,196,71,0.159,L.kluyveri/D.hansenii,Interlink,,,31.64,HVKVDGKVR-VKNAQAQR-a3-b2
+RPS4,,RPS6,196,,168,6766,168,,196,7_3,196,168,0,L.kluyveri/D.hansenii,Interlink,,,47.29,IDLASGKITDYIKFDTGK-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,168,6776,168,,196,7_3,196,168,0,L.kluyveri/D.hansenii,Interlink,,,41.43,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,174,6792,174,,196,7_3,196,174,0.024,L.kluyveri/D.hansenii,Interlink,,,37.66,IDLASGKITDYIKFDTGK-VKNAQAQR-a13-b2
+RPS4,,RPS6,223,,155,6777,155,,223,7_3,223,155,0,L.kluyveri/D.hansenii,Interlink,,,41.35,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,,RPS6,223,,161,6833,161,,223,7_3,223,161,0.159,L.kluyveri/D.hansenii,Interlink,,,31.61,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6770,174,,223,7_3,223,174,0,L.kluyveri/D.hansenii,Interlink,,,43.98,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,179,6768,179,,223,7_3,223,179,0,L.kluyveri/D.hansenii,Interlink,,,45.49,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,,RPS6,223,,179,6784,179,,223,7_3,223,179,0.024,L.kluyveri/D.hansenii,Interlink,,,39.45,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,,RPS6,235,,161,6807,161,,235,7_3,235,161,0.047,L.kluyveri/D.hansenii,Interlink,,,34.71,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,,RPS6,235,,161,6827,161,,235,7_3,235,161,0.121,L.kluyveri/D.hansenii,Interlink,,,32.14,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,,RPS6,235,,174,6844,174,,235,7_3,235,174,0.212,L.kluyveri/D.hansenii,Interlink,,,30.4,ITDYIKFDTGKLVYVTGGR-ASSLKA-a6-b5
+RPS4,,RPS6,235,,179,6822,179,,235,7_3,235,179,0.083,L.kluyveri/D.hansenii,Interlink,,,32.67,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,,RPS6,235,,179,6830,179,,235,7_3,235,179,0.121,L.kluyveri/D.hansenii,Interlink,,,31.92,FDTGKLVYVTGGR-RASSLKA-a5-b6
+RPS5,,RPS25,30,,213,6837,213,,30,7_3,30,213,0.212,L.kluyveri/D.hansenii,Interlink,,,30.93,KKDELER-KSHKDK-a1-b1
+RPS5,,RPS25,30,,214,6794,214,,30,7_3,30,214,0.024,L.kluyveri/D.hansenii,Interlink,,,37.55,KKDELER-KSHKDK-a2-b1
+RPS5,,RPS25,90,,45,6781,45,,90,7_3,90,45,0,L.kluyveri/D.hansenii,Interlink,,,40.26,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,,RPS4,168,,214,6775,214,,168,7_3,168,214,0,L.kluyveri/D.hansenii,Interlink,,,41.56,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS6,,RPS4,242,,235,6846,235,,242,7_3,242,235,0.241,L.kluyveri/D.hansenii,Interlink,,,29.64,RASSLKA-GKGIK-a6-b2
+RPS8,,RPS11,26,,128,6840,128,,26,7_3,26,128,0.212,L.kluyveri/D.hansenii,Interlink,,,30.86,NVKGAEEETVAK-AKANRR-a3-b2
+RPS8,,RPS11,26,,153,6765,155,,26,7_3,26,153,0,L.kluyveri/D.hansenii,Interlink,,,48.96,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,,RPS11,26,,153,6834,155,,26,7_3,26,153,0.2,L.kluyveri/D.hansenii,Interlink,,,31.45,SADAKIEHAVESQFGAGR-AKANRR-a5-b2
+RPS8,,RPS28,14,,153,6854,155,,14,7_3,14,153,0.255,L.kluyveri/D.hansenii,Interlink,,,28.81,SADAKIEHAVESQFGAGR-VIKVLGR-a5-b3
+RPS9,,RPS22,119,,65,6818,65,,119,7_3,119,65,0.083,L.kluyveri/D.hansenii,Interlink,,,32.96,DLLTRDEKDPK-RKHVSGK-a8-b2
+RPS9,,RPS30,55,,29,6796,29,,55,7_3,55,29,0.024,L.kluyveri/D.hansenii,Interlink,,,37.06,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS0,,RPS17,63,,88,6914,88,,63,7_4,63,88,0.062,L.kluyveri/D.hansenii,Interlink,,,33.92,AVLKFSAHTGATAIAGR-IQKGPVR-a4-b3
+RPS0,,RPS17,81,,88,6945,88,,81,7_4,81,88,0.153,L.kluyveri/D.hansenii,Interlink,,,29.85,AVLKFSAHTGATAIAGR-KDQYVPDVSALDLSHSK-a4-b1
+RPS10,,RPS29,16,,24,6913,24,,16,7_4,16,24,0.062,L.kluyveri/D.hansenii,Interlink,,,33.98,HLFQEGVVVAKK-NYGKGSR-a11-b4
+RPS10,,RPS8,17,,5,6963,5,,17,7_4,17,5,0.231,L.kluyveri/D.hansenii,Interlink,,,28.16,MLIPKEER-AATGAKR-a5-b6
+RPS11,,RPS6,235,,43,6895,43,,235,7_4,235,43,0.026,L.kluyveri/D.hansenii,Interlink,,,36.57,NAGLGFKTPK-ASSLKA-a7-b5
+RPS11,,RPS6,235,,141,6938,141,,235,7_4,235,141,0.136,L.kluyveri/D.hansenii,Interlink,,,30.44,FNVLKVSSPAGK-ASSLKA-a5-b5
+RPS11,,RPS7,111,,141,6920,141,,112,7_4,111,141,0.062,L.kluyveri/D.hansenii,Interlink,,,33.59,FNVLKVSSPAGK-QTQKRPR-a5-b4
+RPS12,,RPS31,113,,85,6959,85,,113,7_4,36,85,0.202,L.kluyveri/D.hansenii,Interlink,,,28.57,LVEGLANDPENKVPLIK-VDAEGKVTK-a12-b6
+RPS14,,RPS5,222,,50,6879,50,,222,7_4,222,50,0,L.kluyveri/D.hansenii,Interlink,,,39.37,VKADRDESSPYAAMLAAQDVAAK-VAKSNR-a2-b3
+RPS15,,RPS18,139,,72,6932,72,,139,7_4,139,72,0.093,L.kluyveri/D.hansenii,Interlink,,,31.1,LAAPENEKPAVVR-GQHTKTTGR-a8-b5
+RPS17,,RACK1,130,,23,6958,23,,129,7_4,130,23,0.202,L.kluyveri/D.hansenii,Interlink,,,28.62,YYPKLTLDFQTNKR-DKTVK-a4-b2
+RPS17,,RPS0,116,,14,6863,14,,116,7_4,116,14,0,L.kluyveri/D.hansenii,Interlink,,,45.07,ASKALIER-SFKEPR-a3-b3
+RPS17,,RPS0,116,,72,6868,72,,116,7_4,116,72,0,L.kluyveri/D.hansenii,Interlink,,,41.89,GISFKLQEEERER-SFKEPR-a5-b3
+RPS17,,RPS0,116,,72,6894,72,,116,7_4,116,72,0,L.kluyveri/D.hansenii,Interlink,,,36.94,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,,RPS14,73,,44,6960,44,,73,7_4,73,44,0.216,L.kluyveri/D.hansenii,Interlink,,,28.28,LCDEIATIQSKRLR-CKEVGITAVHVK-a11-b2
+RPS18,,RPS15,13,,96,6910,96,,13,7_4,13,96,0.062,L.kluyveri/D.hansenii,Interlink,,,34.28,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,,RPS15,13,,96,6954,96,,13,7_4,13,96,0.202,L.kluyveri/D.hansenii,Interlink,,,29.02,QKDVNDGKNYHTLANNLESK-TFKTYSYK-a8-b3
+RPS19,,RPS11,26,,118,6917,118,,26,7_4,26,118,0.062,L.kluyveri/D.hansenii,Interlink,,,33.79,IGVVEISPKGGRR-AKANR-a9-b2
+RPS2,,RPS16,132,,124,6951,119,,133,7_4,132,124,0.202,L.kluyveri/D.hansenii,Interlink,,,29.48,TAKEVASAIR-FGGKGARSR-a3-b4
+RPS2,,RPS21,25,,167,6870,163,,25,7_4,25,167,0,L.kluyveri/D.hansenii,Interlink,,,41.7,TSGKSGSVTVR-IIKAK-a4-b3
+RPS2,,RPS3,148,,124,6899,119,,148,7_4,148,124,0.026,L.kluyveri/D.hansenii,Interlink,,,36.27,TAKEVASAIR-AKSMK-a3-b2
+RPS2,,RPS3,194,,38,6901,33,,194,7_4,194,38,0.048,L.kluyveri/D.hansenii,Interlink,,,35.83,ETEEKGWVPVTK-IMRDPSKNR-a5-b7
+RPS2,,RPS3,194,,38,6952,33,,194,7_4,194,38,0.202,L.kluyveri/D.hansenii,Interlink,,,29.38,ETEEKGWVPVTK-DPSKNR-a5-b4
+RPS2,,RPS30,55,,124,6943,119,,55,7_4,55,124,0.145,L.kluyveri/D.hansenii,Interlink,,,30.09,TAKEVASAIR-KMNPSPSSQ-a3-b1
+RPS2,,RPS30,55,,192,6885,187,,55,7_4,55,192,0,L.kluyveri/D.hansenii,Interlink,,,38.41,KLMQLAGVEDVYTSSTGSTR-KMNPSPSSQ-a1-b1
+RPS20,,RPS3,45,,99,6905,101,,45,7_4,45,99,0.062,L.kluyveri/D.hansenii,Interlink,,,35.19,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS22,,RPS7,148,,32,6944,32,,149,7_4,148,32,0.153,L.kluyveri/D.hansenii,Interlink,,,29.88,QVLIRPSSKVIIK-YLVGGNKVQK-a9-b7
+RPS23,,RPS9,37,,56,6897,56,,37,7_4,37,56,0.026,L.kluyveri/D.hansenii,Interlink,,,36.38,GIVLEKIGIESK-LAGEYGLKNK-a6-b8
+RPS24,,RPS4,53,,11,6867,11,,53,7_4,53,11,0,L.kluyveri/D.hansenii,Interlink,,,42,KVISNPLLAR-LKYALNGR-a1-b2
+RPS24,,RPS6,164,,123,6911,123,,164,7_4,164,123,0.062,L.kluyveri/D.hansenii,Interlink,,,34.08,KVFGTGKR-EVTKGEK-a7-b4
+RPS26,,RPS28,14,,116,6916,116,,14,7_4,14,116,0.062,L.kluyveri/D.hansenii,Interlink,,,33.8,VSPADAAKK-VIKVLGR-a8-b3
+RPS3,,RPS17,23,,212,6941,212,,23,7_4,23,212,0.136,L.kluyveri/D.hansenii,Interlink,,,30.12,ILEPKDEEPISEPSVK-YYPKLTLDFQTNKR-a5-b4
+RPS3,,RPS30,55,,108,6928,108,,55,7_4,55,108,0.087,L.kluyveri/D.hansenii,Interlink,,,31.94,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS3,,RPS31,149,,132,6964,132,,149,7_4,72,132,0.231,L.kluyveri/D.hansenii,Interlink,,,28.11,YVMESGAKGCEVVISGK-CHATFKIKS-a8-b6
+RPS30,,RPS23,140,,20,6962,20,,140,7_4,140,20,0.216,L.kluyveri/D.hansenii,Interlink,,,28.22,SQTPKVEK-EKKEKPR-a5-b3
+RPS30,,RPS28,45,,23,6961,23,,45,7_4,45,23,0.216,L.kluyveri/D.hansenii,Interlink,,,28.22,VEKQEKPKQPK-NVKGPVR-a3-b3
+RPS4,,RPS24,84,,71,6919,71,,84,7_4,84,71,0.062,L.kluyveri/D.hansenii,Interlink,,,33.65,HVKVDGK-KFEPTYR-a3-b1
+RPS4,,RPS30,13,,211,6883,211,,13,7_4,13,211,0,L.kluyveri/D.hansenii,Interlink,,,38.79,HEGGFDLVHIKDSLDNTFVTR-AGKVK-a11-b3
+RPS4,,RPS6,194,,134,6861,134,,194,7_4,194,134,0,L.kluyveri/D.hansenii,Interlink,,,45.55,KGVPFVVTHDGR-ALKVK-a1-b3
+RPS4,,RPS6,196,,71,6873,71,,196,7_4,196,71,0,L.kluyveri/D.hansenii,Interlink,,,41.35,HVKVDGKVR-VKNAQAQR-a3-b2
+RPS4,,RPS6,196,,75,6908,75,,196,7_4,196,75,0.062,L.kluyveri/D.hansenii,Interlink,,,34.43,HVKVDGKVR-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,168,6888,168,,196,7_4,196,168,0,L.kluyveri/D.hansenii,Interlink,,,38.02,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,,RPS6,223,,155,6871,155,,223,7_4,223,155,0,L.kluyveri/D.hansenii,Interlink,,,41.47,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,,RPS6,223,,161,6875,161,,223,7_4,223,161,0,L.kluyveri/D.hansenii,Interlink,,,41.09,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6872,174,,223,7_4,223,174,0,L.kluyveri/D.hansenii,Interlink,,,41.46,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6892,174,,223,7_4,223,174,0,L.kluyveri/D.hansenii,Interlink,,,37.6,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,179,6866,179,,223,7_4,223,179,0,L.kluyveri/D.hansenii,Interlink,,,42.37,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,,RPS6,223,,179,6869,179,,223,7_4,223,179,0,L.kluyveri/D.hansenii,Interlink,,,41.7,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,,RPS6,235,,161,6880,161,,235,7_4,235,161,0,L.kluyveri/D.hansenii,Interlink,,,39.26,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,,RPS6,235,,161,6937,161,,235,7_4,235,161,0.136,L.kluyveri/D.hansenii,Interlink,,,30.53,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,,RPS6,235,,179,6900,179,,235,7_4,235,179,0.048,L.kluyveri/D.hansenii,Interlink,,,36.07,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,,RPS6,235,,179,6903,179,,235,7_4,235,179,0.062,L.kluyveri/D.hansenii,Interlink,,,35.69,FDTGKLVYVTGGR-RASSLKA-a5-b6
+RPS4,,RPS9,68,,106,6947,106,,68,7_4,68,106,0.169,L.kluyveri/D.hansenii,Interlink,,,29.69,LVYDVKGR-DEKDPKR-a6-b6
+RPS5,,RPS1,45,,45,6939,45,,45,7_4,45,45,0.136,L.kluyveri/D.hansenii,Interlink,,,30.3,LFNKWSFEDVQVK-NVGKTLVNK-a4-b4
+RPS5,,RPS25,90,,45,6877,45,,90,7_4,90,45,0,L.kluyveri/D.hansenii,Interlink,,,40.68,LFNKWSFEDVQVK-DGIIKPVSK-a4-b5
+RPS6,,RPS24,123,,131,6930,131,,123,7_4,123,131,0.093,L.kluyveri/D.hansenii,Interlink,,,31.29,RGEQELEGVTDQSIPKR-VFGTGKR-a16-b6
+RPS6,,RPS24,123,,164,6949,164,,123,7_4,123,164,0.169,L.kluyveri/D.hansenii,Interlink,,,29.61,EVTKGEK-VFGTGKR-a4-b6
+RPS6,,RPS4,75,,196,6912,196,,75,7_4,75,196,0.062,L.kluyveri/D.hansenii,Interlink,,,34.06,VKNAQAQR-VDGKVR-a2-b4
+RPS6,,RPS4,168,,214,6865,214,,168,7_4,168,214,0,L.kluyveri/D.hansenii,Interlink,,,44.96,EASAEYAQLLAKR-IDLASGKITDYIK-a12-b7
+RPS6,,RPS4,242,,235,6924,235,,242,7_4,242,235,0.062,L.kluyveri/D.hansenii,Interlink,,,32.89,RASSLKA-GKGIK-a6-b2
+RPS8,,RPS11,26,,153,6862,155,,26,7_4,26,153,0,L.kluyveri/D.hansenii,Interlink,,,45.35,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,,RPS19,68,,153,6884,155,,68,7_4,68,153,0,L.kluyveri/D.hansenii,Interlink,,,38.77,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS8,,RPS6,187,,153,6925,155,,194,7_4,187,153,0.062,L.kluyveri/D.hansenii,Interlink,,,32.53,SADAKIEHAVESQFGAGR-KRQQR-a5-b1
+RPS9,,RPS22,119,,65,6874,65,,119,7_4,119,65,0,L.kluyveri/D.hansenii,Interlink,,,41.3,DEKDPKR-KHVSGK-a3-b1
+RPS9,,RPS22,119,,65,6886,65,,119,7_4,119,65,0,L.kluyveri/D.hansenii,Interlink,,,38.28,DEKDPKR-RKHVSGK-a3-b2
+RPS9,,RPS22,119,,65,6890,65,,119,7_4,119,65,0,L.kluyveri/D.hansenii,Interlink,,,37.79,DLLTRDEKDPK-RKHVSGK-a8-b2
+RPS9,,RPS23,123,,179,6950,179,,140,7_4,123,179,0.189,L.kluyveri/D.hansenii,Interlink,,,29.53,NNNKGSEAAEAEDEE-FKVVK-a4-b2
+RPS9,,RPS30,55,,29,6933,29,,55,7_4,55,29,0.093,L.kluyveri/D.hansenii,Interlink,,,31.1,LDAELKLAGEYGLK-KMNPSPSSQ-a6-b1
+RPS0,,RPS17,63,,88,7008,88,,63,7_5,63,88,0.02,L.kluyveri/D.hansenii,Interlink,,,33.54,AVLKFSAHTGATAIAGR-IQKGPVR-a4-b3
+RPS10,,RPS14,3,,52,7002,52,,3,7_5,3,52,0.02,L.kluyveri/D.hansenii,Interlink,,,34.14,ALQSLTSKGYVK-MAKDLVQAR-a8-b3
+RPS10,,RPS29,16,,24,7003,24,,16,7_5,16,24,0.02,L.kluyveri/D.hansenii,Interlink,,,34.12,HLFQEGVVVAKK-NYGKGSR-a11-b4
+RPS11,,RPS6,235,,43,6999,43,,235,7_5,235,43,0.02,L.kluyveri/D.hansenii,Interlink,,,34.34,NAGLGFKTPK-ASSLKA-a7-b5
+RPS11,,RPS7,111,,141,7021,141,,112,7_5,111,141,0.05,L.kluyveri/D.hansenii,Interlink,,,31.2,FNVLKVSSPAGK-QTQKRPR-a5-b4
+RPS15,,RPS18,139,,72,7007,72,,139,7_5,139,72,0.02,L.kluyveri/D.hansenii,Interlink,,,33.92,LAAPENEKPAVVR-GQHTKTTGR-a8-b5
+RPS17,,RACK1,130,,23,7028,23,,129,7_5,130,23,0.136,L.kluyveri/D.hansenii,Interlink,,,30.16,YYPKLTLDFQTNKR-DKTVK-a4-b2
+RPS17,,RPS0,116,,14,6981,14,,116,7_5,116,14,0,L.kluyveri/D.hansenii,Interlink,,,38.96,ASKALIER-SFKEPR-a3-b3
+RPS17,,RPS0,116,,72,6970,72,,116,7_5,116,72,0,L.kluyveri/D.hansenii,Interlink,,,47.36,GISFKLQEEER-SFKEPR-a5-b3
+RPS17,,RPS0,116,,72,6975,72,,116,7_5,116,72,0,L.kluyveri/D.hansenii,Interlink,,,40.65,GISFKLQEEERER-SFKEPR-a5-b3
+RPS18,,RPS15,13,,96,6994,96,,13,7_5,13,96,0.02,L.kluyveri/D.hansenii,Interlink,,,35.48,DVNDGKNYHTLANNLESK-TFKTYSYK-a6-b3
+RPS18,,RPS15,13,,139,7034,139,,13,7_5,13,139,0.16,L.kluyveri/D.hansenii,Interlink,,,29.13,GQHTKTTGR-TFKTYSYK-a5-b3
+RPS19,,RPS11,26,,118,7000,118,,26,7_5,26,118,0.02,L.kluyveri/D.hansenii,Interlink,,,34.3,IGVVEISPKGGRR-AKANR-a9-b2
+RPS2,,RPS16,132,,124,7012,119,,133,7_5,132,124,0.02,L.kluyveri/D.hansenii,Interlink,,,32.41,TAKEVASAIR-FGGKGARSR-a3-b4
+RPS2,,RPS3,148,,124,7004,119,,148,7_5,148,124,0.02,L.kluyveri/D.hansenii,Interlink,,,34.09,TAKEVASAIR-AKSMK-a3-b2
+RPS20,,RPS3,45,,99,7010,101,,45,7_5,45,99,0.02,L.kluyveri/D.hansenii,Interlink,,,33.01,YIDLQAPAQIVKR-VTPTKTEVIIR-a12-b5
+RPS24,,RPS4,53,,11,6973,11,,53,7_5,53,11,0,L.kluyveri/D.hansenii,Interlink,,,45.1,KVISNPLLAR-LKYALNGR-a1-b2
+RPS3,,RPS14,48,,185,7039,185,,48,7_5,48,185,0.16,L.kluyveri/D.hansenii,Interlink,,,28.82,QGVLGIKVK-VTGGMKVK-a7-b6
+RPS3,,RPS29,16,,75,6982,75,,16,7_5,16,75,0,L.kluyveri/D.hansenii,Interlink,,,38.82,INELTLLVQKR-NYGKGSR-a10-b4
+RPS3,,RPS30,55,,108,7030,108,,55,7_5,55,108,0.136,L.kluyveri/D.hansenii,Interlink,,,29.5,FKLLNGLAIR-KMNPSPSSQ-a2-b1
+RPS30,,RPS23,140,,20,7016,20,,140,7_5,140,20,0.036,L.kluyveri/D.hansenii,Interlink,,,31.64,SQTPKVEK-KEKPR-a5-b1
+RPS30,,RPS23,142,,20,7043,20,,142,7_5,142,20,0.165,L.kluyveri/D.hansenii,Interlink,,,28.09,SQTPKVEK-EKKEKPR-a5-b5
+RPS4,,RPS24,84,,71,7031,71,,84,7_5,84,71,0.149,L.kluyveri/D.hansenii,Interlink,,,29.46,HVKVDGK-KFEPTYR-a3-b1
+RPS4,,RPS30,55,,53,7042,53,,55,7_5,55,53,0.165,L.kluyveri/D.hansenii,Interlink,,,28.17,NRLKYALNGR-KMNPSPSSQ-a4-b1
+RPS4,,RPS6,194,,134,6978,134,,194,7_5,194,134,0,L.kluyveri/D.hansenii,Interlink,,,40.07,KGVPFVVTHDGR-ALKVK-a1-b3
+RPS4,,RPS6,196,,71,7011,71,,196,7_5,196,71,0.02,L.kluyveri/D.hansenii,Interlink,,,32.6,HVKVDGKVR-VKNAQAQR-a3-b2
+RPS4,,RPS6,196,,75,6991,75,,196,7_5,196,75,0.02,L.kluyveri/D.hansenii,Interlink,,,35.82,HVKVDGKVR-VKNAQAQR-a7-b2
+RPS4,,RPS6,196,,168,6974,168,,196,7_5,196,168,0,L.kluyveri/D.hansenii,Interlink,,,42.11,IDLASGKITDYIK-VKNAQAQR-a7-b2
+RPS4,,RPS6,223,,155,6971,155,,223,7_5,223,155,0,L.kluyveri/D.hansenii,Interlink,,,46.95,TIRYPDPNIKINDTVK-NAEKAEAR-a10-b4
+RPS4,,RPS6,223,,161,6966,161,,223,7_5,223,161,0,L.kluyveri/D.hansenii,Interlink,,,49.62,INDTVKIDLASGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,174,6983,174,,223,7_5,223,174,0.02,L.kluyveri/D.hansenii,Interlink,,,38.41,ITDYIKFDTGK-NAEKAEAR-a6-b4
+RPS4,,RPS6,223,,179,6968,179,,223,7_5,223,179,0,L.kluyveri/D.hansenii,Interlink,,,48.06,ITDYIKFDTGKLVYVTGGR-NAEKAEAR-a11-b4
+RPS4,,RPS6,223,,179,6977,179,,223,7_5,223,179,0,L.kluyveri/D.hansenii,Interlink,,,40.19,FDTGKLVYVTGGR-NAEKAEAR-a5-b4
+RPS4,,RPS6,235,,161,6995,161,,235,7_5,235,161,0.02,L.kluyveri/D.hansenii,Interlink,,,35.41,INDTVKIDLASGK-ASSLKA-a6-b5
+RPS4,,RPS6,235,,161,7018,161,,235,7_5,235,161,0.036,L.kluyveri/D.hansenii,Interlink,,,31.6,INDTVKIDLASGK-RASSLKA-a6-b6
+RPS4,,RPS6,235,,179,6993,179,,235,7_5,235,179,0.02,L.kluyveri/D.hansenii,Interlink,,,35.53,FDTGKLVYVTGGR-ASSLKA-a5-b5
+RPS4,,RPS6,235,,179,7013,179,,235,7_5,235,179,0.02,L.kluyveri/D.hansenii,Interlink,,,32.29,FDTGKLVYVTGGR-RASSLKA-a5-b6
+RPS6,,RPS24,123,,131,7035,131,,123,7_5,123,131,0.16,L.kluyveri/D.hansenii,Interlink,,,29.11,RGEQELEGVTDQSIPKR-VFGTGKR-a16-b6
+RPS6,,RPS4,75,,196,6989,196,,75,7_5,75,196,0.02,L.kluyveri/D.hansenii,Interlink,,,37,VKNAQAQR-VDGKVR-a2-b4
+RPS6,,RPS4,242,,235,7033,235,,242,7_5,242,235,0.16,L.kluyveri/D.hansenii,Interlink,,,29.16,RASSLKA-GKGIK-a6-b2
+RPS7,,RPS23,142,,101,7037,102,,142,7_5,142,101,0.16,L.kluyveri/D.hansenii,Interlink,,,28.96,ILPKPSRR-EKKEKPR-a4-b5
+RPS8,,RPS11,26,,153,6969,155,,26,7_5,26,153,0,L.kluyveri/D.hansenii,Interlink,,,47.73,SADAKIEHAVESQFGAGR-AKANR-a5-b2
+RPS8,,RPS19,68,,153,7015,155,,68,7_5,68,153,0.036,L.kluyveri/D.hansenii,Interlink,,,31.73,SADAKIEHAVESQFGAGR-KQVGVGK-a5-b1
+RPS8,,RPS5,109,,26,7020,26,,109,7_5,109,26,0.05,L.kluyveri/D.hansenii,Interlink,,,31.27,KFELGR-LKAVR-a1-b2
+RPS9,,RPS22,119,,65,6967,65,,119,7_5,119,65,0,L.kluyveri/D.hansenii,Interlink,,,48.24,DEKDPKR-KHVSGK-a3-b1
+RPS9,,RPS22,119,,65,6990,65,,119,7_5,119,65,0.02,L.kluyveri/D.hansenii,Interlink,,,36.81,DEKDPKR-RKHVSGK-a3-b2
+RPS9,,RPS22,119,,65,6996,65,,119,7_5,119,65,0.02,L.kluyveri/D.hansenii,Interlink,,,34.84,DEKDPK-KHVSGK-a3-b1
+RPS9,,RPS22,119,,65,7005,65,,119,7_5,119,65,0.02,L.kluyveri/D.hansenii,Interlink,,,33.99,DLLTRDEKDPK-RKHVSGK-a8-b2
+eIF1,,eIF3j,219,,37,6616,37,,218,7_1,222,40,0.202,L.kluyveri/D.hansenii,Interlink,,,29.34,KTLTTVQGVPEEYDLKR-LAKVR-a1-b3
+eIF3a,,RPS2,125,,63,6585,63,,120,7_1,125,66,0.126,L.kluyveri/D.hansenii,Interlink,,,31.47,FLELGVDLKK-TAKEVASAIR-a9-b3
+eIF3a,,RPS4,62,,825,6634,844,,62,7_1,62,828,0.237,L.kluyveri/D.hansenii,Interlink,,,28.18,RQEELKQQQEFER-EVKAIMMQR-a6-b3
+eIF3a,,RPS4,128,,743,6609,757,,128,7_1,128,746,0.198,L.kluyveri/D.hansenii,Interlink,,,30.03,DADLQEERDLENYNDLKQR-KVQLGK-a17-b1
+eIF3a,,RPS8,41,,825,6551,844,,41,7_1,41,828,0.068,L.kluyveri/D.hansenii,Interlink,,,34.98,QEELKQQQEFER-IGGKR-a5-b4
+eIF3b,,RPS8,41,,676,6582,669,,41,7_1,41,678,0.119,L.kluyveri/D.hansenii,Interlink,,,31.93,KLLEQWR-IGGKR-a1-b4
+eIF3b,,RPS8,41,,687,6568,680,,41,7_1,41,689,0.097,L.kluyveri/D.hansenii,Interlink,,,33.03,AKHAANGSK-IGGKR-a2-b4
+eIF3c,,eIF1,56,,88,6520,92,,56,7_1,59,91,0.029,L.kluyveri/D.hansenii,Interlink,,,39.65,FLKNANYSDSEDSDDEGR-ILKVLK-a3-b3
+eIF3c,,eIF1,56,,88,6521,92,,56,7_1,59,91,0.029,L.kluyveri/D.hansenii,Interlink,,,39.38,FLKNANYSDSEDSDDEGR-ILKVLKK-a3-b3
+eIF3c,,eIF1,56,,88,6538,92,,56,7_1,59,91,0.068,L.kluyveri/D.hansenii,Interlink,,,36.26,FLKNANYSDSEDSDDEGRK-ILKVLK-a3-b3
+eIF3c,,RPS1,166,,271,6550,268,,166,7_1,166,274,0.068,L.kluyveri/D.hansenii,Interlink,,,35.1,GKKGTDHQAQIK-KVISEILTR-a3-b1
+eIF3c,,RPS1,166,,271,6586,268,,166,7_1,166,274,0.143,L.kluyveri/D.hansenii,Interlink,,,31.38,KGTDHQAQIK-KVISEILTR-a1-b1
+eIF3c,,RPS13,100,,76,6618,82,,100,7_1,100,79,0.213,L.kluyveri/D.hansenii,Interlink,,,29.11,KGGASSGANR-KHLER-a1-b1
+eIF3c,,RPS13,112,,110,6553,116,,112,7_1,112,113,0.068,L.kluyveri/D.hansenii,Interlink,,,34.86,SAKDKLLDEMQNVYNK-DKDAKFR-a3-b5
+eIF3c,,RPS27,72,,270,6637,267,,72,7_1,72,273,0.237,L.kluyveri/D.hansenii,Interlink,,,28,GKKGTDHQAQIK-AKLSEGTSFR-a2-b2
+eIF3c,,RPS27,72,,271,6562,268,,72,7_1,72,274,0.097,L.kluyveri/D.hansenii,Interlink,,,33.47,GKKGTDHQAQIK-AKLSEGTSFR-a3-b2
+eIF3c,,RPS30,26,,810,6597,809,,26,7_1,26,813,0.167,L.kluyveri/D.hansenii,Interlink,,,30.78,LNEKKFAGNAPQR-QEKPKQPKGR-a5-b3
+eIF3c,,RPS8,17,,187,6607,193,,17,7_1,17,190,0.182,L.kluyveri/D.hansenii,Interlink,,,30.12,AVAKAYNTTK-AATGAKR-a4-b6
+eIF3j,,RPS30,23,,156,6581,155,,23,7_1,23,159,0.108,L.kluyveri/D.hansenii,Interlink,,,32.13,KALSTAITSMHEK-VEKQEKPKQPK-a1-b3
+eIF3j,,RPS30,28,,156,6621,155,,28,7_1,28,159,0.213,L.kluyveri/D.hansenii,Interlink,,,28.9,KALSTAITSMHEK-VEKQEKPKQPK-a1-b8
+RPS10,,eIF3j,219,,52,6546,52,,218,7_1,222,52,0.068,L.kluyveri/D.hansenii,Interlink,,,35.45,ALQSLTSKGYVK-LAKVR-a8-b3
+RPS13,,eIF3c,110,,112,6531,112,,116,7_1,113,112,0.029,L.kluyveri/D.hansenii,Interlink,,,37.28,DKDAKFR-SAKDK-a5-b3
+RPS16,,eIF3a,586,,132,6626,131,,599,7_1,589,132,0.22,L.kluyveri/D.hansenii,Interlink,,,28.62,FGGKGARSR-ERKAAEER-a4-b3
+RPS16,,eIF3b,114,,95,6617,94,,109,7_1,116,95,0.202,L.kluyveri/D.hansenii,Interlink,,,29.22,GLVAYHQKFVDEQSK-KLDQK-a8-b1
+RPS17,,eIF3a,599,,116,6610,116,,612,7_1,602,116,0.2,L.kluyveri/D.hansenii,Interlink,,,29.95,SLGLKLPLAVSNVSAQR-QLEEEKLR-a5-b6
+RPS18,,eIF3j,219,,139,6620,139,,218,7_1,222,139,0.213,L.kluyveri/D.hansenii,Interlink,,,29.06,GQHTKTTGR-LAKVR-a5-b3
+RPS19,,eIF3g,53,,55,6635,55,,40,7_1,53,55,0.237,L.kluyveri/D.hansenii,Interlink,,,28.13,TSAGNEMPPQDSEGWFYKRAASVAR-EVKVK-a18-b3
+RPS21,,eIF3a,642,,38,6627,38,,656,7_1,645,38,0.22,L.kluyveri/D.hansenii,Interlink,,,28.61,AKDHASVQINVAKVDEEGR-RAEEKFER-a13-b5
+RPS26,,eIF3a,656,,28,6630,28,,670,7_1,659,28,0.22,L.kluyveri/D.hansenii,Interlink,,,28.53,CVNCSKSVPKDK-AAVLEGEMKK-a6-b9
+RPS30,,eIF3j,219,,20,6591,20,,218,7_1,222,20,0.16,L.kluyveri/D.hansenii,Interlink,,,31.08,SQTPKVEK-LAKVR-a5-b3
+RPS30,,eIF3j,219,,20,6629,20,,218,7_1,222,20,0.22,L.kluyveri/D.hansenii,Interlink,,,28.58,SQTPKVEKQEKPK-LAKVR-a5-b3
+RPS30,,eIF3j,219,,23,6569,23,,218,7_1,222,23,0.097,L.kluyveri/D.hansenii,Interlink,,,32.9,VEKQEKPKQPK-LAKVR-a3-b3
+RPS30,,eIF3j,219,,23,6614,23,,218,7_1,222,23,0.202,L.kluyveri/D.hansenii,Interlink,,,29.6,SQTPKVEKQEKPK-LAKVR-a8-b3
+RPS30,,eIF3j,219,,55,6608,55,,218,7_1,222,55,0.182,L.kluyveri/D.hansenii,Interlink,,,30.12,KMNPSPSSQ-LAKVR-a1-b3
+RPS9,,eIF3a,63,,179,6570,179,,63,7_1,66,179,0.097,L.kluyveri/D.hansenii,Interlink,,,32.82,NNNKGSEAAEAEDEE-FLELGVDLKKGK-a4-b9
+RPS9,,eIF3b,431,,120,6530,120,,420,7_1,433,120,0.029,L.kluyveri/D.hansenii,Interlink,,,37.3,LGLAKSVHHAR-HTKSR-a5-b3
+RPS9,,eIF3j,231,,179,6533,179,,230,7_1,234,179,0.053,L.kluyveri/D.hansenii,Interlink,,,36.98,RNNNKGSEAAEAEDEE-GGTATGGAGKKK-a5-b10
+eIF1,,eIF3j,219,,37,6687,37,,218,7_2,222,40,0.074,L.kluyveri/D.hansenii,Interlink,,,35.09,KTLTTVQGVPEEYDLKR-LAKVR-a1-b3
+eIF3a,,RPS1,219,,785,6762,799,,219,7_2,219,788,0.197,L.kluyveri/D.hansenii,Interlink,,,28.2,EAKLTEAR-LLKQPK-a3-b3
+eIF3a,,RPS14,48,,624,6733,638,,48,7_2,48,627,0.119,L.kluyveri/D.hansenii,Interlink,,,30.56,MMEEKAAADAR-VTGGMKVK-a5-b6
+eIF3a,,RPS8,41,,825,6708,844,,41,7_2,41,828,0.119,L.kluyveri/D.hansenii,Interlink,,,32.57,QEELKQQQEFER-IGGKR-a5-b4
+eIF3b,,RPS8,41,,676,6731,669,,41,7_2,41,678,0.119,L.kluyveri/D.hansenii,Interlink,,,30.92,RKLLEQWR-IGGKR-a2-b4
+eIF3b,,RPS8,41,,687,6675,680,,41,7_2,41,689,0.022,L.kluyveri/D.hansenii,Interlink,,,36.25,AKHAANGSK-IGGKR-a2-b4
+eIF3c,,eIF1,56,,88,6736,92,,56,7_2,59,91,0.119,L.kluyveri/D.hansenii,Interlink,,,30.38,FLKNANYSDSEDSDDEGR-ILKVLKK-a3-b3
+eIF3c,,RPS1,166,,271,6739,268,,166,7_2,166,274,0.135,L.kluyveri/D.hansenii,Interlink,,,30.2,GKKGTDHQAQIK-KVISEILTR-a3-b1
+eIF3c,,RPS11,36,,810,6744,809,,36,7_2,36,813,0.135,L.kluyveri/D.hansenii,Interlink,,,29.56,LNEKKFAGNAPQR-WYKNAGLGFK-a5-b3
+eIF3c,,RPS27,72,,271,6676,268,,72,7_2,72,274,0.022,L.kluyveri/D.hansenii,Interlink,,,36.16,GKKGTDHQAQIK-AKLSEGTSFR-a3-b2
+eIF3c,,RPS30,26,,809,6729,808,,26,7_2,26,812,0.119,L.kluyveri/D.hansenii,Interlink,,,31.11,LNEKKFAGNAPQR-QEKPKQPKGR-a4-b3
+eIF3c,,RPS5,222,,651,6748,650,,222,7_2,222,654,0.135,L.kluyveri/D.hansenii,Interlink,,,29.31,RIPYSQKSIR-VAKSNR-a7-b3
+eIF3g,,RPS9,65,,50,6699,37,,65,7_2,65,50,0.111,L.kluyveri/D.hansenii,Interlink,,,33.49,IKEVKVK-DEKDPK-a2-b3
+RPS10,,eIF3j,219,,52,6723,52,,218,7_2,222,52,0.119,L.kluyveri/D.hansenii,Interlink,,,31.58,ALQSLTSKGYVK-LAKVR-a8-b3
+RPS13,,eIF3c,110,,112,6702,112,,116,7_2,113,112,0.119,L.kluyveri/D.hansenii,Interlink,,,33.11,DKDAKFR-SAKDK-a5-b3
+RPS16,,eIF3b,114,,95,6707,94,,109,7_2,116,95,0.119,L.kluyveri/D.hansenii,Interlink,,,32.85,GLVAYHQKFVDEQSK-KLDQK-a8-b1
+RPS17,,eIF3a,599,,116,6760,116,,612,7_2,602,116,0.197,L.kluyveri/D.hansenii,Interlink,,,28.21,SLGLKLPLAVSNVSAQR-QLEEEKLR-a5-b6
+RPS20,,eIF3g,50,,99,6750,101,,37,7_2,50,99,0.149,L.kluyveri/D.hansenii,Interlink,,,29.15,YIDLQAPAQIVKR-IKEVK-a12-b2
+RPS23,,eIF3j,219,,56,6684,56,,218,7_2,222,56,0.043,L.kluyveri/D.hansenii,Interlink,,,35.46,GIVLEKIGIESK-LAKVR-a6-b3
+RPS26,,eIF3a,656,,28,6719,28,,670,7_2,659,28,0.119,L.kluyveri/D.hansenii,Interlink,,,31.87,CVNCSKSVPKDK-AAVLEGEMKK-a6-b9
+RPS3,,eIF3g,189,,207,6725,207,,185,7_2,189,207,0.119,L.kluyveri/D.hansenii,Interlink,,,31.38,ALPDAVKILEPKDEEPISEPSVK-DLKDRDDSTTLK-a7-b3
+RPS30,,eIF3g,66,,3,6721,3,,53,7_2,66,3,0.119,L.kluyveri/D.hansenii,Interlink,,,31.68,MAKVHGSLSRAGK-KNWAK-a3-b1
+RPS30,,eIF3j,219,,20,6761,20,,218,7_2,222,20,0.197,L.kluyveri/D.hansenii,Interlink,,,28.21,SQTPKVEKQEKPK-LAKVR-a5-b3
+RPS9,,eIF3b,431,,120,6732,120,,420,7_2,433,120,0.119,L.kluyveri/D.hansenii,Interlink,,,30.68,LGLAKSVHHAR-HTKSR-a5-b3
+RPS9,,eIF3c,198,,90,6756,90,,204,7_2,201,90,0.197,L.kluyveri/D.hansenii,Interlink,,,28.54,IGVLSEDKK-VKKVAR-a8-b3
+eIF1,,eIF3j,219,,37,6855,37,,218,7_3,222,40,0.255,L.kluyveri/D.hansenii,Interlink,,,28.79,KTLTTVQGVPEEYDLKR-LAKVR-a1-b3
+eIF3a,,RPS2,125,,63,6845,63,,120,7_3,125,66,0.241,L.kluyveri/D.hansenii,Interlink,,,29.71,FLELGVDLKK-TAKEVASAIR-a9-b3
+eIF3a,,RPS4,128,,743,6824,757,,128,7_3,128,746,0.083,L.kluyveri/D.hansenii,Interlink,,,32.57,DADLQEERDLENYNDLKQR-KVQLGK-a17-b1
+eIF3b,,RPS8,41,,185,6806,179,,41,7_3,41,187,0.024,L.kluyveri/D.hansenii,Interlink,,,35.27,KNDPEPVIEPR-IGGKR-a1-b4
+eIF3c,,RPS22,22,,810,6850,809,,22,7_3,22,813,0.255,L.kluyveri/D.hansenii,Interlink,,,29.18,LNEKKFAGNAPQR-TGKRQVLIRPSSK-a5-b3
+eIF3g,,RPS8,53,,44,6848,31,,53,7_3,53,44,0.25,L.kluyveri/D.hansenii,Interlink,,,29.27,LNANGQKVKITQK-TRGGNKK-a9-b6
+RPS10,,eIF3j,63,,5,6856,5,,63,7_3,66,5,0.255,L.kluyveri/D.hansenii,Interlink,,,28.63,MLIPKEER-KKDASTK-a5-b2
+RPS2,,eIF3g,91,,105,6849,105,,78,7_3,91,105,0.25,L.kluyveri/D.hansenii,Interlink,,,29.2,TRFKAVVVVGDSNGHVGLGIK-TTQLGEKVELK-a4-b7
+RPS30,,eIF3a,840,,20,6852,20,,856,7_3,843,20,0.255,L.kluyveri/D.hansenii,Interlink,,,28.97,SQTPKVEK-EEEEKSR-a5-b5
+RPS9,,eIF3c,198,,179,6843,179,,204,7_3,201,179,0.212,L.kluyveri/D.hansenii,Interlink,,,30.57,NNNKGSEAAEAEDEE-KVARENETLLSK-a4-b1
+eIF3a,,RPS2,125,,63,6929,63,,120,7_4,125,66,0.087,L.kluyveri/D.hansenii,Interlink,,,31.7,FLELGVDLKK-TAKEVASAIR-a9-b3
+eIF3a,,RPS29,16,,624,6956,638,,16,7_4,16,627,0.202,L.kluyveri/D.hansenii,Interlink,,,28.72,MMEEKAAADAR-NYGKGSRQCR-a5-b4
+eIF3a,,RPS8,41,,743,6887,757,,41,7_4,41,746,0,L.kluyveri/D.hansenii,Interlink,,,38.1,DLENYNDLKQR-IGGKR-a9-b4
+eIF3b,,RPS8,41,,676,6923,669,,41,7_4,41,678,0.062,L.kluyveri/D.hansenii,Interlink,,,33.05,KLLEQWR-IGGKR-a1-b4
+eIF3b,,RPS8,41,,687,6940,680,,41,7_4,41,689,0.136,L.kluyveri/D.hansenii,Interlink,,,30.25,AKHAANGSK-IGGKR-a2-b4
+eIF3c,,RPS30,26,,810,6957,809,,26,7_4,26,813,0.202,L.kluyveri/D.hansenii,Interlink,,,28.69,LNEKKFAGNAPQR-QEKPKQPKGR-a5-b3
+eIF3g,,RPS9,65,,50,6948,37,,65,7_4,65,50,0.169,L.kluyveri/D.hansenii,Interlink,,,29.62,IKEVKVK-DEKDPK-a2-b3
+eIF3i,,RPS8,41,,294,6896,290,,41,7_4,41,294,0.026,L.kluyveri/D.hansenii,Interlink,,,36.45,VKGHFGPLNSIAVHPDGTGYASGGEDGFIR-IGGKR-a2-b4
+RPS1,,eIF3c,110,,7,6946,7,,116,7_4,113,7,0.163,L.kluyveri/D.hansenii,Interlink,,,29.72,MAVGKNKR-SAKDK-a7-b3
+RPS24,,eIF3c,197,,117,6942,117,,203,7_4,200,117,0.145,L.kluyveri/D.hansenii,Interlink,,,30.09,KVFGTGKR-QRVKK-a1-b4
+eIF3a,,RPS29,16,,624,7017,638,,16,7_5,16,627,0.036,L.kluyveri/D.hansenii,Interlink,,,31.61,MMEEKAAADAR-NYGKGSRQCR-a5-b4
+eIF3c,,RPS16,95,,662,7024,661,,107,7_5,95,665,0.05,L.kluyveri/D.hansenii,Interlink,,,30.91,ALEHYEKSSFQGPPETLR-GLVAYHQKFVDEQSK-a7-b8
+eIF3c,,RPS30,26,,809,7022,808,,26,7_5,26,812,0.05,L.kluyveri/D.hansenii,Interlink,,,30.96,LNEKKFAGNAPQR-QEKPKQPKGR-a4-b3
+eIF3c,,RPS30,26,,810,7036,809,,26,7_5,26,813,0.16,L.kluyveri/D.hansenii,Interlink,,,29,LNEKKFAGNAPQR-QEKPKQPKGR-a5-b3
+eIF3g,,RPS9,65,,50,7019,37,,65,7_5,65,50,0.036,L.kluyveri/D.hansenii,Interlink,,,31.35,IKEVKVK-DEKDPK-a2-b3
+eIF3i,,RPS9,37,,276,7023,272,,37,7_5,37,276,0.05,L.kluyveri/D.hansenii,Interlink,,,30.93,NVTTTAESQGKFEAR-LAGEYGLKNK-a11-b8
+RPS14,,eIF3b,571,,93,6980,93,,564,7_5,573,93,0,L.kluyveri/D.hansenii,Interlink,,,39.33,TKTPGPGGQAALR-LLKAEK-a2-b3
+RPS20,,eIF3g,50,,99,7027,101,,37,7_5,50,99,0.136,L.kluyveri/D.hansenii,Interlink,,,30.22,YIDLQAPAQIVKR-IKEVK-a12-b2
+RPS29,,eIF3g,50,,16,7029,16,,40,7_5,50,16,0.136,L.kluyveri/D.hansenii,Interlink,,,29.62,NYGKGSR-IKEVK-a4-b2
