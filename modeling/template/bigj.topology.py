@@ -1,7 +1,7 @@
 simo.add_component_name("eIF3b",color=0.0)
 simo.add_component_sequence("eIF3b",sequencedir+"protein_fasta.eIF3b.SC.txt")
 eIF3b0=simo.add_component_beads("eIF3b",[(1,36)])
-eIF3b1=simo.add_component_pdb("eIF3b",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3jb_model_updated.pdb',
+eIF3b1=simo.add_component_pdb("eIF3b",pdbdir+'eIF3jb_model_updated.pdb',
                        "B",resolutions=[1,10], cacenters=True)
 eIF3b2=simo.add_component_beads("eIF3b",[(131,145)])
 eIF3b3=simo.add_component_pdb("eIF3b",pdbdir+'eIF3b_propeller_hybrid.pdb',
@@ -9,7 +9,7 @@ eIF3b3=simo.add_component_pdb("eIF3b",pdbdir+'eIF3b_propeller_hybrid.pdb',
 eIF3b4=simo.add_component_beads("eIF3b",[(626,630)])
 eIF3b5=simo.add_component_ideal_helix("eIF3b",resolutions=[1,10],resrange=(631,654))
 #eIF3b4=simo.add_component_beads("eIF3b",[(626,635)])
-eIF3b6=simo.add_component_pdb("eIF3b",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3big_model_updated.pdb',
+eIF3b6=simo.add_component_pdb("eIF3b",pdbdir+'eIF3big_model_updated.pdb',
                                "B",resolutions=[1,10],cacenters=True,resrange=(655,698))
 eIF3b7=simo.add_component_beads("eIF3b",[(699,724)])
 
@@ -47,15 +47,15 @@ simo.add_component_name("eIF3j",color=0.9)
 simo.add_component_sequence("eIF3j",sequencedir+"protein_fasta.eIF3j.SC.txt")
 
 eIF3j0=simo.add_component_beads("eIF3j",[(1,29)])
-eIF3j1=simo.add_component_pdb("eIF3j",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3jb_model_updated.pdb', "J",
+eIF3j1=simo.add_component_pdb("eIF3j",pdbdir+'eIF3jb_model_updated.pdb', "J",
                                                      resolutions=[1,10], cacenters=True)
 eIF3j2=simo.add_component_necklace("eIF3j",41,116,25)
 eIF3j5=simo.add_component_beads("eIF3j",[(117,145)])
-eIF3j6=simo.add_component_pdb("eIF3j",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3j_helical_model_updated.pdb', "J",
+eIF3j6=simo.add_component_pdb("eIF3j",pdbdir+'eIF3j_helical_model_updated.pdb', "J",
                                                      resolutions=[1,10], cacenters=True,resrange=(146,167))
-eIF3j7=simo.add_component_pdb("eIF3j",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3j_helical_model_updated.pdb', "J",
+eIF3j7=simo.add_component_pdb("eIF3j",pdbdir+'eIF3j_helical_model_updated.pdb', "J",
                                                      resolutions=[1,10], cacenters=True,resrange=(168,187))
-eIF3j8=simo.add_component_pdb("eIF3j",pdbdir+'Updated_model_pdbs_30Oct2013/eIF3j_helical_model_updated.pdb', "J",
+eIF3j8=simo.add_component_pdb("eIF3j",pdbdir+'eIF3j_helical_model_updated.pdb', "J",
                                                      resolutions=[1,10], cacenters=True,resrange=(188,209))
 eIF3j9=simo.add_component_beads("eIF3j",[(210,234),(235,265)])
 #simo.setup_component_geometry("eIF3j")
