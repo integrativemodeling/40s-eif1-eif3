@@ -1,4 +1,4 @@
-Eukaryotic translation initiation requires the recruit ment of the large,
+Eukaryotic translation initiation requires the recruitment of the large,
 multiprotein eIF3 complex to the 40S ribosomal subunit. Using X-ray structures
 of all major components of the minimal, six-subunit
 _Saccharomyces cerevisiae_ eIF3 core, together with cross-linking
