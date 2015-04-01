@@ -1,4 +1,3 @@
-
 import IMP
 import IMP.core
 import IMP.base
@@ -30,6 +29,10 @@ sampleobjects = []
 #data="Only_10_7_13"
 #datafile="XL_MS_all_data_19.12.13.csv"
 
+test = False
+if sys.argv[1] == '--test':
+    test = True
+    del sys.argv[1]
 data=sys.argv[1]
 datafile=sys.argv[2]
 modeled_complex=sys.argv[3]
@@ -231,6 +234,10 @@ outputobjects.append(xl)
 
 
 
+if test:
+    nframes = 500
+else:
+    nframes = 10000
 rex=macros.ReplicaExchange0(m,
                       simo,
                       monte_carlo_sample_objects=sampleobjects,
@@ -241,7 +248,7 @@ rex=macros.ReplicaExchange0(m,
                       replica_exchange_maximum_temperature=2.5,
                       number_of_best_scoring_models=100,
                       monte_carlo_steps=10,
-                      number_of_frames=10000,
+                      number_of_frames=nframes,
                       write_initial_rmf=True,
                       initial_rmf_name_suffix="initial",
                       stat_file_name_suffix="stat",
