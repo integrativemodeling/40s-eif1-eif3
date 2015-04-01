@@ -7,6 +7,16 @@ coupled to mass spectrometry, we were able to use
 components on the 40S•eIF1 complex, revealing an extended, modular
 arrangement of eIF3 subunits.
 
+## Running the IMP/PMI scripts:
+
+- `cd modeling/template`
+- `./bigj-ac-40s.modeling.py Only_10_7 cross-links.csv all 4.0 move_ac 0.01 Triple` (on a single processor; prepend `mpirun -np 4` or similar if you built IMP with MPI support)
+
+The calculation will generate a trajectory, `output/rmfs/0.rmf3`, in
+[RMF format](http://integrativemodeling.org/rmf/). For convenience, the 100
+best-scoring models are also output in PDB format in the `output/pdbs`
+directory.
+
 ## Information
 
 _Author(s)_: Riccardo Pellarin, Peter Cimermančič
