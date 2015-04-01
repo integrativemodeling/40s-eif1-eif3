@@ -23,8 +23,7 @@ eIF3a=simo.autobuild_pdb_and_intervening_beads("eIF3a",pdbdir+'/eIF3ac_yeast_EM_
                                              resolutions=[1,10],beadsize=beadsize,resrange=(1,514))
 eIF3a_ctd=simo.add_component_necklace("eIF3a",515,964,beadsize)                                             
 
-simo.add_component_name("ac_densities",color=0.75)
-
+#simo.add_component_name("ac_densities",color=0.75)
 #eIF3ac_dens=simo.add_component_density("ac_densities",eIF3c+eIF3a,
 #                               num_components=15,resolution=1,
 #                               inputfile=datadir+'/eIF3ac_dens.txt')
