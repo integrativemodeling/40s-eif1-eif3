@@ -1,3 +1,7 @@
 title: 40S•eIF1•eIF3 Complex
 tags: [X-ray, MODELLER, chemical crosslinks, PMI]
 pmid: 25171412
+prereqs: [python/pyparsing]
+test:
+    runtime: 24h
+    build: release
