@@ -139,10 +139,10 @@ m = IMP.Model()
 simo = representation.SimplifiedModel(m,upperharmonic=True,disorderedlength=False)
 
 if modeled_complex=="all":
-   execfile("bigj.topology.py")
-   execfile("ac.topology.py")
+   exec(open("bigj.topology.py").read())
+   exec(open("ac.topology.py").read())
 
-   execfile("40s.topology.py")
+   exec(open("40s.topology.py").read())
 
    if move_ac=="fix_ac": 
       simo.shuffle_configuration(100,bounding_box=((0,0,-100),(200,200,100)),excluded_rigid_bodies=[rb40s,ac_rb,eIF3c_cterm_helix])
@@ -177,11 +177,11 @@ if modeled_complex=="all":
       print("cannot understand move_ac argument")
       exit()      
 elif modeled_complex=="bigj":
-   execfile("bigj.topology.py")
+   exec(open("bigj.topology.py").read())
    simo.shuffle_configuration(100)   
 if modeled_complex=="b40s":
-   execfile("bbetaprop.topology.py")
-   execfile("40s.topology.py")
+   exec(open("bbetaprop.topology.py").read())
+   exec(open("40s.topology.py").read())
    simo.shuffle_configuration(100,bounding_box=((0,0,-100),(200,200,100)),excluded_rigid_bodies=[rb40s])
    simo.fix_rigid_bodies([rb40s])
 

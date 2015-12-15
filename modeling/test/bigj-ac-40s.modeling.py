@@ -46,9 +46,9 @@ filters='''
 m = IMP.Model()
 simo = representation.Representation(m,upperharmonic=True,disorderedlength=False)
 
-execfile("bigj.topology.py")
-execfile("ac.topology.py")
-execfile("40s.topology.py")
+exec(open("bigj.topology.py").read())
+exec(open("ac.topology.py").read())
+exec(open("40s.topology.py").read())
 
 simo.fix_rigid_bodies([rb40s])  
 
