@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 
+from __future__ import print_function
 import IMP
 import IMP.core
 import IMP.algebra
@@ -148,7 +149,7 @@ if modeled_complex=="all":
    elif move_ac=="move_ac": 
       simo.shuffle_configuration(100,bounding_box=((0,0,-100),(200,200,100)),excluded_rigid_bodies=[rb40s])
    else:
-      print "cannot understand move_ac argument"
+      print("cannot understand move_ac argument")
       exit()      
 
    #restore the position of the termini
@@ -173,7 +174,7 @@ if modeled_complex=="all":
    elif move_ac=="move_ac": 
       simo.fix_rigid_bodies([rb40s])
    else:
-      print "cannot understand move_ac argument"
+      print("cannot understand move_ac argument")
       exit()      
 elif modeled_complex=="bigj":
    execfile("bigj.topology.py")
@@ -216,7 +217,7 @@ elif crosslink_classification=="Triple":
    ids_map.set_map_element(34,0.05)
    ids_map.set_map_element(38,0.01)
 else:
-   print "wrong crosslink classification"
+   print("wrong crosslink classification")
    exit()
 
 xl = IMP.pmi.restraints.crosslinking.ISDCrossLinkMS(simo, 
