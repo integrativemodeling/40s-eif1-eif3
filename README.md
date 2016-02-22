@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.46415.svg)](http://dx.doi.org/10.5281/zenodo.46415)
+
 Eukaryotic translation initiation requires the recruitment of the large,
 multiprotein eIF3 complex to the 40S ribosomal subunit. Using X-ray structures
 of all major components of the minimal, six-subunit
