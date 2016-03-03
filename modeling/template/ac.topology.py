@@ -5,7 +5,7 @@ beadsize=20
 simo.add_component_name("eIF3c",color=0.25)
 eIF3c_ntd=simo.add_component_necklace("eIF3c",1,216,beadsize)
 simo.add_component_sequence("eIF3c",sequencedir+"protein_fasta.eIF3c.SC.txt")
-eIF3c=simo.autobuild_pdb_and_intervening_beads("eIF3c",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "A",
+eIF3c=simo.autobuild_model("eIF3c",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "A",
                                              resolutions=[1,10],missingbeadsize=beadsize,resrange=(217,779))
 eIF3c_cterm_helix=simo.add_component_pdb("eIF3c",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "A",
                                              resolutions=[1,10],cacenters=True,resrange=(780,794))
@@ -19,7 +19,7 @@ simo.setup_component_geometry("eIF3c")
 
 simo.add_component_name("eIF3a",color=0.75)
 simo.add_component_sequence("eIF3a",sequencedir+"protein_fasta.eIF3a.SC.txt")
-eIF3a=simo.autobuild_pdb_and_intervening_beads("eIF3a",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "C",
+eIF3a=simo.autobuild_model("eIF3a",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "C",
                                              resolutions=[1,10],missingbeadsize=beadsize,resrange=(1,514))
 eIF3a_ctd=simo.add_component_necklace("eIF3a",515,964,beadsize)                                             
 
