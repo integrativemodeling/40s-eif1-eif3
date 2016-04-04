@@ -136,7 +136,8 @@ if data=="Only_10_7":
    ":Sample}" == "%7_5%"'''
 
 m = IMP.Model()
-simo = representation.SimplifiedModel(m,upperharmonic=True,disorderedlength=False)
+simo = representation.Representation(m, upperharmonic=True,
+                                     disorderedlength=False)
 
 if modeled_complex=="all":
    exec(open("bigj.topology.py").read())
@@ -154,17 +155,20 @@ if modeled_complex=="all":
 
    #restore the position of the termini
    
-   pos=tools.get_position_terminal_residue(eIF3c,terminus="N",resolution=1)
+   pos = tools.get_terminal_residue_position(simo, eIF3c, terminus="N",
+                                             resolution=1)
    for h in eIF3c_ntd: 
        for p in IMP.atom.get_leaves(h):
            IMP.core.XYZ(p).set_coordinates(pos)
        
-   pos=tools.get_position_terminal_residue(eIF3a,terminus="C",resolution=1)
+   pos = tools.get_terminal_residue_position(simo, eIF3a, terminus="C",
+                                             resolution=1)
    for h in eIF3a_ctd: 
        for p in IMP.atom.get_leaves(h):
            IMP.core.XYZ(p).set_coordinates(pos)  
    
-   pos=tools.get_position_terminal_residue(eIF3c_cterm_helix,terminus="N",resolution=1)
+   pos = tools.get_terminal_residue_position(simo, eIF3c_cterm_helix,
+                                             terminus="N", resolution=1)
    for h in eIF3c_cterm_beads:
        for p in IMP.atom.get_leaves(h):
            IMP.core.XYZ(p).set_coordinates(pos)         

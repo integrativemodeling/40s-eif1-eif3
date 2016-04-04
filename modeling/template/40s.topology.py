@@ -40,7 +40,7 @@ pdbbits=[]
 beadsize=20
 
 for p in map_p2c:
-    simo.add_component_name(p)
+    simo.create_component(p)
     simo.add_component_sequence(p,sequencedir+"protein_fasta.40S.SC_2.txt")
     
     
@@ -61,12 +61,12 @@ for p in map_p2c:
     #simo.draw_component_composition(p)
     
 
-simo.add_component_name("rnaribo")
+simo.create_component("rnaribo")
 pdbbits+=simo.add_component_pdb("rnaribo",datadir+'40S_43S_map_fitted_helix_final.pdb', "6",cacenters=True,resolutions=[1,10], color=0.4,isnucleicacid=True)
 rigid_body_list.append("rnaribo")
 simo.setup_component_geometry("rnaribo")
 
-simo.add_component_name("eIF1",color=1.0)
+simo.create_component("eIF1",color=1.0)
 simo.add_component_beads("eIF1",[(1,24)])
 pdbbits+=simo.add_component_pdb("eIF1",datadir+'eIF1_map_fitted_final.pdb', "i",cacenters=True,resolutions=[1,10], color=0.45,resrange=(25,108))
 rigid_body_list.append("eIF1")

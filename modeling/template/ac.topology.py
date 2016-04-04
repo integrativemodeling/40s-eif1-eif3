@@ -2,7 +2,7 @@
 
 beadsize=20
 
-simo.add_component_name("eIF3c",color=0.25)
+simo.create_component("eIF3c",color=0.25)
 eIF3c_ntd=simo.add_component_necklace("eIF3c",1,216,beadsize)
 simo.add_component_sequence("eIF3c",sequencedir+"protein_fasta.eIF3c.SC.txt")
 eIF3c=simo.autobuild_model("eIF3c",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "A",
@@ -17,13 +17,13 @@ simo.setup_component_geometry("eIF3c")
 #simo.draw_component_composition("eIF3c")
 
 
-simo.add_component_name("eIF3a",color=0.75)
+simo.create_component("eIF3a",color=0.75)
 simo.add_component_sequence("eIF3a",sequencedir+"protein_fasta.eIF3a.SC.txt")
 eIF3a=simo.autobuild_model("eIF3a",pdbdir+'/eIF3ac_yeast_EM_fitted_variant.pdb', "C",
                                              resolutions=[1,10],missingbeadsize=beadsize,resrange=(1,514))
 eIF3a_ctd=simo.add_component_necklace("eIF3a",515,964,beadsize)                                             
 
-#simo.add_component_name("ac_densities",color=0.75)
+#simo.create_component("ac_densities",color=0.75)
 #eIF3ac_dens=simo.add_component_density("ac_densities",eIF3c+eIF3a,
 #                               num_components=15,resolution=1,
 #                               inputfile=datadir+'/eIF3ac_dens.txt')
