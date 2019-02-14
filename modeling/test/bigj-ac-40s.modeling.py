@@ -5,14 +5,14 @@ import IMP.algebra
 import IMP.atom
 import IMP.container
 
-import IMP.pmi.restraints.stereochemistry
-import IMP.pmi.restraints.em
-import IMP.pmi.restraints.crosslinking
-import IMP.pmi.representation as representation
-import IMP.pmi.tools as tools
-import IMP.pmi.samplers as samplers
-import IMP.pmi.output as output
-import IMP.pmi.macros as macros
+import IMP.pmi1.restraints.stereochemistry
+import IMP.pmi1.restraints.em
+import IMP.pmi1.restraints.crosslinking
+import IMP.pmi1.representation as representation
+import IMP.pmi1.tools as tools
+import IMP.pmi1.samplers as samplers
+import IMP.pmi1.output as output
+import IMP.pmi1.macros as macros
 
 import os
 import sys
@@ -58,7 +58,7 @@ simo.setup_bonds()
 outputobjects.append(simo)
 sampleobjects.append(simo)
 
-ev = IMP.pmi.restraints.stereochemistry.ExcludedVolumeSphere(simo,resolution=10)
+ev = IMP.pmi1.restraints.stereochemistry.ExcludedVolumeSphere(simo,resolution=10)
 ev.add_to_model()
 outputobjects.append(ev)
 
@@ -74,7 +74,7 @@ ids_map.set_map_element(30.0,0.1)
 ids_map.set_map_element(34,0.05)
 ids_map.set_map_element(38,0.01)
 
-xl = IMP.pmi.restraints.crosslinking.ISDCrossLinkMS(simo, 
+xl = IMP.pmi1.restraints.crosslinking.ISDCrossLinkMS(simo, 
                                    datadir+datafile,
                                    length=21.0,
                                    slope=crosslink_slope,
@@ -102,7 +102,7 @@ xl.set_sigma_is_sampled(False)
 sigma=xl.get_sigma(1.0)[0]
 sigma.set_scale(9.61342059784)
 
-o=IMP.pmi.output.Output()
+o=IMP.pmi1.output.Output()
 o.write_test("test.new.stat."+rmf_file+".out",outputobjects)
 o.test("test.stat."+rmf_file+".out",outputobjects)
 

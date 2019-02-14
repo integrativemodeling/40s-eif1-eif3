@@ -7,14 +7,14 @@ import IMP.algebra
 import IMP.atom
 import IMP.container
 
-import IMP.pmi.restraints.stereochemistry
-import IMP.pmi.restraints.em
-import IMP.pmi.restraints.crosslinking
-import IMP.pmi.representation as representation
-import IMP.pmi.tools as tools
-import IMP.pmi.samplers as samplers
-import IMP.pmi.output as output
-import IMP.pmi.macros as macros
+import IMP.pmi1.restraints.stereochemistry
+import IMP.pmi1.restraints.em
+import IMP.pmi1.restraints.crosslinking
+import IMP.pmi1.representation as representation
+import IMP.pmi1.tools as tools
+import IMP.pmi1.samplers as samplers
+import IMP.pmi1.output as output
+import IMP.pmi1.macros as macros
 
 import os
 import sys
@@ -196,7 +196,7 @@ simo.setup_bonds()
 outputobjects.append(simo)
 sampleobjects.append(simo)
 
-ev = IMP.pmi.restraints.stereochemistry.ExcludedVolumeSphere(simo,resolution=10)
+ev = IMP.pmi1.restraints.stereochemistry.ExcludedVolumeSphere(simo,resolution=10)
 ev.add_to_model()
 outputobjects.append(ev)
 
@@ -224,7 +224,7 @@ else:
    print("wrong crosslink classification")
    exit()
 
-xl = IMP.pmi.restraints.crosslinking.ISDCrossLinkMS(simo, 
+xl = IMP.pmi1.restraints.crosslinking.ISDCrossLinkMS(simo, 
                                    datadir+datafile,
                                    length=21.0,
                                    slope=crosslink_slope,
